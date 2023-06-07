@@ -923,7 +923,7 @@
       </p>
       <p>
         <em>Check</em>: Check that the test statistic follows a chi-square distribution.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a random sample or random process.

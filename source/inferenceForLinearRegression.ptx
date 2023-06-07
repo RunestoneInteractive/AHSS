@@ -164,7 +164,7 @@
     <assemblage>
       <title>Conditions for inference on the slope of a regression line</title>
       <p>
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>
             The data is collected from a random sample or randomized experiment.
@@ -361,7 +361,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for using a <m>t</m>-interval for the slope.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a random sample or randomized experiment.
@@ -880,7 +880,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for using a <m>t</m>-test for the slope.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a random sample or randomized experiment.
@@ -1382,7 +1382,7 @@
       <li>
         <p>
           The conditions for the <m>t</m>-interval and <m>t</m>-test for the slope of a regression line are the same.
-          <ol label="1">
+          <ol marker="1">
             <li>
               <p>
                 Data come from a random sample or randomized experiment.
@@ -1789,7 +1789,7 @@
       <image width="50%" source="images/regression/urbanOwner_withoutDC.png"/>
   	  </sidebyside>
   	  <p>
-  	  	<ol label="a">
+  	  	<ol marker="a">
   	  		<li>
   	  			<p>
   	  				For these data, <m>R^2 = 0.28</m>. What is the correlation? How can you tell if it is positive or negative?
@@ -1869,7 +1869,7 @@
       </tabular>
   	  </sidebyside>
       <p>
-      <ol label="a">
+      <ol marker="a">
         <li>
           <p>
             What are the hypotheses for evaluating whether poverty percentage is a significant predictor of murder rate?

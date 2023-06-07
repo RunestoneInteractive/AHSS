@@ -786,7 +786,7 @@
       <statement>
         <p>
           Suppose 5 people are selected at random.
-          <ol label="(a)">
+          <ol marker="(a)">
             <li>
               <p>
                 What is the probability that all are right-handed?
@@ -830,7 +830,7 @@
       <statement>
         <p>
           Three people are selected at random.
-          <ol label="(a)">
+          <ol marker="(a)">
             <li>
               <p>
                 What is the probability that the first person is male and right-handed?

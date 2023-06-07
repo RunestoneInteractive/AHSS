@@ -830,7 +830,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\bar{x}</m> to nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a random sample or random process.
@@ -1426,7 +1426,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\bar{x}</m> to be nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a random sample or random process.
@@ -1839,7 +1839,7 @@
       <li>
         <p>
           The conditions for the one sample <m>t</m>-interval and <m>t</m>-test are the same.
-          <ol label="1">
+          <ol marker="1">
             <li>
               <p>
                 The data come from a random sample or random process.

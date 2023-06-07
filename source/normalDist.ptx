@@ -1326,11 +1326,11 @@
           to approximate a discrete histogram.
           There are two common types of <em>normal approximation problems</em>,
           and for each a key step is to find a <m>Z</m>-score.
-          <ol label="A">
+          <ol marker="A">
             <li>
               <p>
                 <em>Find the percent or probability of a value greater/less than a given <m>x</m>-value.</em>
-                <ol label="1">
+                <ol marker="1">
                   <li>
                     <p>
                       Verify that the distribution of interest is approximately normal.
@@ -1353,7 +1353,7 @@
             <li>
               <p>
                 <em>Find the <em>x</em>-value that corresponds to a given percentile.</em>
-                <ol label="1">
+                <ol marker="1">
                   <li>
                     <p>
                       Verify that the distribution of interest is approximately normal.

@@ -45,7 +45,7 @@
     </p>
     <p>
       We hope readers will take away three ideas from this book in addition to forming a foundation of statistical thinking and methods.
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>
             Statistics is an applied field with a wide range of practical applications.
@@ -74,7 +74,7 @@
   <title></title>
     <p>
       The chapters of this book are as follows:
-      <ol label="1">
+      <ol marker="1">
         <li>
           <p>
             Data collection.
@@ -234,13 +234,14 @@
       When we think the reader should be ready to do an example problem on their own,
       we frame it as Guided Practice.
     </p>
-    <exercise>
+    <!-- We can't have an exercise in a preface -->
+    <!-- <exercise>
       <statement>
         <p>
         The reader may check or learn the answer to any Guided Practice problem by reviewing the full solution in a footnote.<fn>Guided Practice solutions are always located down here!</fn>
         </p>
       </statement>
-    </exercise>
+    </exercise> -->
     <p>
       Exercises are also provided at the end of each section and each chapter for practice or homework assignments.
       Solutions are included at the end of each <!-- for --> odd-numbered exercises.  <!-- are at the end of the given in <xref ref="eoceSolutions">Appendix.</xref> -->

@@ -589,7 +589,7 @@
       </p>
       <p>
         <em>Check</em>: Check that the test statistic follows a chi-square distribution.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from multiple random samples or from multiple randomly assigned treatments.
@@ -1051,7 +1051,7 @@
       </p>
       <p>
         <em>Check</em>: Check that the test statistic follows a chi-square distribution.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from a single random sample.
@@ -1676,7 +1676,7 @@
             <p>
             	Answer each of the following questions under the null hypothesis that being part of a support group does not affect the ability of people to quit smoking,
             	and indicate whether the expected values are higher or lower than the observed values.
-            	<ol label="a">
+            	<ol marker="a">
               		<li>
               			<p>
               				How many subjects in the <q>patch + support</q> group would you expect to quit?
@@ -1949,7 +1949,7 @@
     	then, 
     	to focus not on the calculations, 
     	but rather on
-	    <ol label="1">
+	    <ol marker="1">
 	    	<li>
 	        	<p>
 	        		choosing the correct procedure

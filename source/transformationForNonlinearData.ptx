@@ -203,7 +203,7 @@
         <p>
           Which of the following statements are true?
           There may be more than one.
-          <ol label="a">
+          <ol marker="a">
             <li>
               <p>
                 There is an apparent linear relationship between <m>x</m> and <m>y</m>.

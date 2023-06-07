@@ -288,7 +288,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\hat{p}_1-\hat{p}_2</m> to be nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               Data come from 2 independent random samples or 2 randomly assigned treatments.
@@ -871,7 +871,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\hat{p}_1-\hat{p}_2</m> to be nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               1. Data come from 2 independent random samples or from 2 randomly assigned treatments.
@@ -1358,7 +1358,7 @@
       <li>
         <p>
           Verify the conditions for using a normal model:
-          <ol label="1">
+          <ol marker="1">
             <li>
               <p>
                 Data come from 2 independent random samples or 2 randomly assigned treatments.

@@ -389,7 +389,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\bar{x}_{\text{diff}}</m> to be nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               There is paired data from a random sample or from a matched pairs experiment.
@@ -793,7 +793,7 @@
       </p>
       <p>
         <em>Check</em>: Check conditions for the sampling distribution of <m>\bar{x}_{\text{diff}}</m> to be nearly normal.
-        <ol label="1">
+        <ol marker="1">
           <li>
             <p>
               There is paired data from a random sample or from a matched pairs experiment.
@@ -1148,7 +1148,7 @@
       <li>
         <p>
           The conditions for the matched pairs <m>t</m>-interval and <m>t</m>-test are the same.
-          <ol label="1">
+          <ol marker="1">
             <li>
               <p>
                 There is paired data from a random sample or a matched pairs experiment.

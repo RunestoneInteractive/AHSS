@@ -240,13 +240,5 @@
 	</p>
 </section> -->
 
-<section xml:id="appendix_inference_guide">
-<title>Inference guide</title>
-	<sidebyside>
-		<image width="95%" source="images/appendix/inference_guide1.png" />
-	</sidebyside>
-	<sidebyside>
-		<image width="95%" source="images/appendix/inference_guide2.png" />
-	</sidebyside>
-</section>
+
 </appendix>

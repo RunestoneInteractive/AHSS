@@ -678,7 +678,7 @@
           The bookstore also offers a chemistry textbook for $159 and a book supplement for $41.
           From past experience,
           they know about 25% of chemistry students just buy the textbook while 60% buy both the textbook and supplement.
-          <ol label="(a)">
+          <ol marker="(a)">
             <li>
               <p>
                 What proportion of students don't buy either book?
