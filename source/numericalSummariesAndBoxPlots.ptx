@@ -279,7 +279,7 @@
     <p>
       The U.S. Census Bureau reported that in 2017,
       the median family income was $73,891 and the mean family income was $99,114.<fn>
-      <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1901">https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1901</url>
+      <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1901" visual="factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1901">https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_1YR_S1901</url>
       </fn> Is a family income of $60,000 far from the mean or somewhat close to the mean?
       In order to answer this question,
       it is not enough to know the center of the data set and its <term>range</term>
@@ -612,7 +612,7 @@
       provides a box plot of the <c>num_char</c> variable from the <c>email50</c> data set.
     </p>
     <figure xml:id="boxPlotLayoutNumVar">
-      <caption>A labeled box plot for the number of characters in 50 emails. The median (6,890) splits the data into the bottom 50% and the top 50%. Explore dozens of boxplots with histograms using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms">American Community Survey data on Tableau Public</url>.</caption>
+      <caption>A labeled box plot for the number of characters in 50 emails. The median (6,890) splits the data into the bottom 50% and the top 50%. Explore dozens of boxplots with histograms using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms">American Community Survey data on Tableau Public</url>.</caption>
       <image source="images/summarizing/boxPlotLayoutNumVar.png" />
     </figure>
     <p>
@@ -821,7 +821,7 @@
       Python, SAS, and STATA.
     </p>
     <figure xml:id="desmos1VarStats">
-      <caption>Use this <url href="https://teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684">1-Var Stats calculator</url>(openintro.org/ahss/desmos) to graph and find summary statistics for a single variable in Desmos, as shown in the figure.</caption>
+      <caption>Use this <url href="https://teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684" visual="teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684">1-Var Stats calculator</url>(openintro.org/ahss/desmos) to graph and find summary statistics for a single variable in Desmos, as shown in the figure.</caption>
       <image source="images/summarizing/email50Desmos.png" />
     </figure>
     <assemblage xml:id="entering_data_ti">
@@ -1087,7 +1087,7 @@
     <example>
       <statement>
         <p>
-          Enter the following 10 data points into a calculator or into this <url href="https://teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684">1-Var Stats calculator</url> (openintro.org/ahss/desmos):
+          Enter the following 10 data points into a calculator or into this <url href="https://teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684" visual="teacher.desmos.com/activitybuilder/custom/5cba84e635d2100c8d47c684">1-Var Stats calculator</url> (openintro.org/ahss/desmos):
         </p>
         <p>
           5, 8, 1, 19, 3, 1, 11, 18, 20, 5
@@ -1757,7 +1757,7 @@
     </p>
     <figure xml:id="countyIncomeSplitByPopGain">
       <caption>Side-by-side box plot (left panel) and hollow histograms (right panel) for
-      <c>med_hh_income</c>, where the counties are split by whether or not there was a population gain from 2010 to 2017. Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_22alt"></url>Tableau Public.</caption>
+      <c>med_hh_income</c>, where the counties are split by whether or not there was a population gain from 2010 to 2017. Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_22alt" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_22alt"></url>Tableau Public.</caption>
       <image source="images/summarizing/countyIncomeSplitByPopGain.png" />
     </figure>
     <p>
@@ -1900,7 +1900,7 @@
     <figure xml:id="countyIntensityMaps_global_one">
       <caption>(a) Intensity map of poverty rate (percent).
       (b) Intensity map of the unemployment rate (percent).
-      Explore dozens of intensity maps using American Community Survey data on <url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ">Tableau Public</url>.</caption>
+      Explore dozens of intensity maps using American Community Survey data on <url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ" visual="public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ">Tableau Public</url>.</caption>
       <sbsgroup>
         <sidebyside>
           <figure xml:id="countyPovertyMap">
@@ -1918,7 +1918,7 @@
     <figure xml:id="countyIntensityMaps_global_two">
     <caption>(a) Intensity map of homeownership rate (percent).
     (b) Intensity map of median household income ($1000s).
-    Explore dozens of intensity maps using American Community Survey data on <url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ">Tableau Public</url>.</caption>
+    Explore dozens of intensity maps using American Community Survey data on <url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ" visual="public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ">Tableau Public</url>.</caption>
     <sbsgroup>
         <sidebyside>
           <figure xml:id="countyHomeownershipMap">
@@ -2114,7 +2114,7 @@
         A survey was conducted to study the smoking habits of UK residents.
         The histograms below display the distributions of the number of cigarettes smoked on weekdays and weekends,
         and they exclude data from people who identified themselves as non-smokers.
-        Describe the two distributions and compare them.<fn>National STEM Centre,<url href="https://www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools">Large Datasets from stats4schools.</url></fn>
+        Describe the two distributions and compare them.<fn>National STEM Centre,<url href="https://www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools" visual="www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools">Large Datasets from stats4schools.</url></fn>
       </p>
       <sidebyside>
         <image width="70%" source="images/summarizing/smoking_amountHist.png" />
@@ -2493,7 +2493,7 @@
         This index reports the pollution level and what associated health effects might be a concern.
         The index is calculated for five major air pollutants regulated by the Clean Air Act and takes values from 0 to 300,
         where a higher value indicates lower air quality.
-        AQI was reported for a sample of 91 days in 2011 in Durham, NC. The relative frequency histogram below shows the distribution of the AQI values on these days.<fn>US Environmental Protection Agency <url href="https://www.epa.gov/outdoor-air-quality-data">AirData, 2011.</url></fn>
+        AQI was reported for a sample of 91 days in 2011 in Durham, NC. The relative frequency histogram below shows the distribution of the AQI values on these days.<fn>US Environmental Protection Agency <url href="https://www.epa.gov/outdoor-air-quality-data" visual="www.epa.gov/outdoor-air-quality-data">AirData, 2011.</url></fn>
       </p>
         <ol>
           <li>
@@ -2573,7 +2573,7 @@
       <p>
         Facebook data indicate that 50% of Facebook users have 100 or more friends,
         and that the average friend count of users is 190.
-        What do these findings suggest about the shape of the distribution of number of friends of Facebook users?<fn>Lars Backstrom. <url href="https://www.facebook.com/notes/facebook-data-team/anatomy-of-facebook/10150388519243859"><q>Anatomy of Facebook</q></url>. In: <em>Facebook Data Team's Notes</em> (2011).</fn>
+        What do these findings suggest about the shape of the distribution of number of friends of Facebook users?<fn>Lars Backstrom. <url href="https://www.facebook.com/notes/facebook-data-team/anatomy-of-facebook/10150388519243859" visual="www.facebook.com/notes/facebook-data-team/anatomy-of-facebook/10150388519243859"><q>Anatomy of Facebook</q></url>. In: <em>Facebook Data Team's Notes</em> (2011).</fn>
       </p>
     </statement>
   </exercise>

@@ -159,7 +159,7 @@
     <p>
       The Gallup organization began measuring the public's view of the Supreme Court's job performance in 2000,
       and has measured it every year since then with the question: <q>Do you approve or disapprove of the way the Supreme Court is handling its job?</q>. In 2018,
-      the Gallup poll randomly sampled 1,033 adults in the U.S. and found that 53% of them approved.<fn><url href="https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx">https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx</url></fn> We know that 53% is just a point estimate.
+      the Gallup poll randomly sampled 1,033 adults in the U.S. and found that 53% of them approved.<fn><url href="https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx" visual="news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx">https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx</url></fn> We know that 53% is just a point estimate.
       What range of values are reasonable estimates for the percent of the population that approved of the job the Supreme Court is doing?
       We can use the confidence interval procedure introduced in the previous chapter to answer this question,
       but first we must clearly identify the parameter we're trying to estimate and be sure that a Z-interval will be appropriate.
@@ -749,7 +749,7 @@
     <example>
       <statement>
         <p>
-          A recent estimate of Congress' approval rating was 17%<fn><url href="https://news.gallup.com/poll/237176/snapshot-congressional-job-approval-july.aspx">https://news.gallup.com/poll/237176/snapshot-congressional-job-approval-july.aspx</url></fn>. If another poll were taken,
+          A recent estimate of Congress' approval rating was 17%<fn><url href="https://news.gallup.com/poll/237176/snapshot-congressional-job-approval-july.aspx" visual="news.gallup.com/poll/237176/snapshot-congressional-job-approval-july.aspx">https://news.gallup.com/poll/237176/snapshot-congressional-job-approval-july.aspx</url></fn>. If another poll were taken,
           what minimum sample<nbsp/>size does this estimate suggest should be used to have a margin of error no greater than 0.04 with 95% confidence?
         </p>
       </statement>
@@ -1108,7 +1108,7 @@
     <example xml:id="NuclearEnergy">
       <statement>
         <p>
-          A Gallup poll conducted in March of 2016 found that 54% of respondents oppose nuclear energy<fn><url href="https://news.gallup.com/poll/190064/first-time-majority-oppose-nuclear-energy.aspx">https://news.gallup.com/poll/190064/first-time-majority-oppose-nuclear-energy.aspx</url></fn>.
+          A Gallup poll conducted in March of 2016 found that 54% of respondents oppose nuclear energy<fn><url href="https://news.gallup.com/poll/190064/first-time-majority-oppose-nuclear-energy.aspx" visual="news.gallup.com/poll/190064/first-time-majority-oppose-nuclear-energy.aspx">https://news.gallup.com/poll/190064/first-time-majority-oppose-nuclear-energy.aspx</url></fn>.
           This was the first time since Gallup first asked the question in 1994 that a majority of respondents said they oppose nuclear energy.
           The survey was based on telephone interviews from a random sample of 1,019 adults in the United States.
           Does this poll provide evidence that greater than half of U.S. adults oppose nuclear energy?
@@ -1578,7 +1578,7 @@
       <p>
         About 77% of young adults think they can achieve the American dream.
         Determine if the following statements are true or false,
-        and explain your reasoning.<fn>A. Vaughn. <url href="https://www.latimes.com/world/la-xpm-2011-nov-03-la-na-young-adults-20111103-story.html"><q>Poll finds young adults optimistic, but not about money</q></url>. In: <em>Los Angeles Times</em> (2011).</fn>
+        and explain your reasoning.<fn>A. Vaughn. <url href="https://www.latimes.com/world/la-xpm-2011-nov-03-la-na-young-adults-20111103-story.html" visual="www.latimes.com/world/la-xpm-2011-nov-03-la-na-young-adults-20111103-story.html"><q>Poll finds young adults optimistic, but not about money</q></url>. In: <em>Los Angeles Times</em> (2011).</fn>
         <ol>
           <li>
             <p>
@@ -1656,7 +1656,7 @@
       <p>
         About 25% of young Americans have delayed starting a family due to the continued economic slump.
         Determine if the following statements are true or false,
-        and explain your reasoning.<fn>Demos.org. <url href="https://www.demos.org/research/state-young-america-poll"><q>The State of Young America: The Poll</q></url>. In: <em>Demos</em> (2011).</fn>
+        and explain your reasoning.<fn>Demos.org. <url href="https://www.demos.org/research/state-young-america-poll" visual="www.demos.org/research/state-young-america-poll"><q>The State of Young America: The Poll</q></url>. In: <em>Demos</em> (2011).</fn>
         <ol>
           <li>
             <p>
@@ -1795,7 +1795,7 @@
       <p>
         Greece has faced a severe economic crisis since the end of 2009.
         A Gallup poll surveyed 1,000 randomly sampled Greeks in 2011 and found that 25% of them said they would rate their lives poorly enough to be considered
-        <q>suffering</q>.<fn>Gallup World, <url href="https://news.gallup.com/poll/153869/One-Suffering-Worldwide.aspx">More Than One in 10 <q>Suffering</q> Worldwide</url>, data collected throughout 2011.</fn>
+        <q>suffering</q>.<fn>Gallup World, <url href="https://news.gallup.com/poll/153869/One-Suffering-Worldwide.aspx" visual="news.gallup.com/poll/153869/One-Suffering-Worldwide.aspx">More Than One in 10 <q>Suffering</q> Worldwide</url>, data collected throughout 2011.</fn>
         <ol>
           <li>
             <p>
@@ -1834,7 +1834,7 @@
     <title>Study abroad</title>
     <statement>
       <p>
-        A survey on 1,509 high school seniors who took the SAT and who completed an optional web survey shows that 55% of high school seniors are fairly certain that they will participate in a study abroad program in college.<fn>studentPOLL, <url href="https://www.acenet.edu/Documents/2008-Student-Poll.pdf">College-Bound Students' Interests in Study Abroad and Other International Learning Activities</url>, January 2008.</fn>
+        A survey on 1,509 high school seniors who took the SAT and who completed an optional web survey shows that 55% of high school seniors are fairly certain that they will participate in a study abroad program in college.<fn>studentPOLL, <url href="https://www.acenet.edu/Documents/2008-Student-Poll.pdf" visual="www.acenet.edu/Documents/2008-Student-Poll.pdf">College-Bound Students' Interests in Study Abroad and Other International Learning Activities</url>, January 2008.</fn>
         <ol>
           <li>
             <p>
@@ -1933,7 +1933,7 @@
         poll for US adults in 2019 found that 79% of Democrats, 55% of Independents,
         and 24% of Republicans supported a generic
         <q>National Health Plan</q>. There were 347 Democrats, 298 Republicans,
-        and 617 Independents surveyed.<fn>Kaiser Family Foundation, <url href="https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-january-2019/">The Public On Next Steps For The ACA And Proposals To Expand Coverage</url>, data collected between Jan 9-14, 2019.</fn>
+        and 617 Independents surveyed.<fn>Kaiser Family Foundation, <url href="https://www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-january-2019/" visual="www.kff.org/health-reform/poll-finding/kff-health-tracking-poll-january-2019/">The Public On Next Steps For The ACA And Proposals To Expand Coverage</url>, data collected between Jan 9-14, 2019.</fn>
         <ol>
           <li>
             <p>
@@ -1984,7 +1984,7 @@
     <title>Is college worth it? Part I</title>
     <statement>
       <p>
-        Among a simple random sample of 331 American adults who do not have a four-year college degree and are not currently enrolled in school, 48% said they decided not to go to college because they could not afford school.<fn>Pew Research Center Publications, <url href="https://www.pewsocialtrends.org/2011/05/15/is-college-worth-it/">Is College Worth It?</url>, data collected between March 15-29, 2011.</fn>
+        Among a simple random sample of 331 American adults who do not have a four-year college degree and are not currently enrolled in school, 48% said they decided not to go to college because they could not afford school.<fn>Pew Research Center Publications, <url href="https://www.pewsocialtrends.org/2011/05/15/is-college-worth-it/" visual="www.pewsocialtrends.org/2011/05/15/is-college-worth-it/">Is College Worth It?</url>, data collected between March 15-29, 2011.</fn>
         <ol>
           <li>
             <p>

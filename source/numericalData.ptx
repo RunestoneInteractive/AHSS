@@ -174,7 +174,7 @@
     </example>
     <figure xml:id="medianHHIncomePoverty">
       <caption>A scatterplot of the median household income against the poverty rate for the <c>county</c> data set.
-      A statistical model has also been fit to the data and is shown as a dashed line. Explore dozens of scatterplots using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms">American Community Survey data on Tableau Public</url>.</caption>
+      A statistical model has also been fit to the data and is shown as a dashed line. Explore dozens of scatterplots using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms">American Community Survey data on Tableau Public</url>.</caption>
       <image width="70%" source="images/summarizing/medianHHIncomePoverty.png" />
     </figure>
     <exercise>
@@ -596,7 +596,7 @@
       </tabular>
     </table>
     <figure xml:id="email50NumCharHist">
-      <caption>A histogram of <c>num_char</c>. This histogram uses bins or class intervals of width 5.  Explore this histogram and dozens of histograms using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10">American Community Survey data on Tableau Public</url>.</caption>
+      <caption>A histogram of <c>num_char</c>. This histogram uses bins or class intervals of width 5.  Explore this histogram and dozens of histograms using <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10">American Community Survey data on Tableau Public</url>.</caption>
       <image width="70%" source="images/summarizing/email50NumCharHist.png" />
     </figure>
     <exercise>
@@ -765,7 +765,7 @@
       </tabular>
     </table>
     <figure xml:id="email50NumCharCumulativeFreqHist">
-      <caption>A cumulative frequency histogram of <c>num_char</c>. This histogram uses bins or class intervals of width 5. Compare frequency, relative frequency, cumulative frequency, and cumulative relative frequency histograms on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10">Tableau Public</url>.</caption>
+      <caption>A cumulative frequency histogram of <c>num_char</c>. This histogram uses bins or class intervals of width 5. Compare frequency, relative frequency, cumulative frequency, and cumulative relative frequency histograms on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_10">Tableau Public</url>.</caption>
       <image width="70%" source="images/summarizing/email50NumCharCumulativeFreqHist.png" />
     </figure>
     <example>
@@ -1080,7 +1080,7 @@
         Some of the questions asked on the survey are about their income, age
         (in years),
         and gender.
-        The table below contains this information for a random sample of 20 respondents to the 2012 ACS.<fn>United States Census Bureau. Summary File.<url href="https://www.census.gov/acs/www/data_documentation/data_via_ftp/">2012 American Community Survey.</url>U.S. Census Bureau's American Community Survey Office, 2013. Web.</fn>
+        The table below contains this information for a random sample of 20 respondents to the 2012 ACS.<fn>United States Census Bureau. Summary File.<url href="https://www.census.gov/acs/www/data_documentation/data_via_ftp/" visual="www.census.gov/acs/www/data_documentation/data_via_ftp/">2012 American Community Survey.</url>U.S. Census Bureau's American Community Survey Office, 2013. Web.</fn>
       </p>
       <sidebyside>
         <tabular>

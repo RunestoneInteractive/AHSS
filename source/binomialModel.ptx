@@ -595,7 +595,7 @@
         </ol>
         </p>
         <figure>
-          <caption>Photo by Staccabees, cropped <url href="https://www.flickr.com/photos/44689913@N04/4116667696/">(http://flic.kr/p/7gLZTf)</url>, <url href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
+          <caption>Photo by Staccabees, cropped <url href="https://www.flickr.com/photos/44689913@N04/4116667696/" visual="www.flickr.com/photos/44689913@N04/4116667696/">(http://flic.kr/p/7gLZTf)</url>, <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
           <image width="40%" source="images/distributions/dreidel.jpg" />
         </figure>
     </statement>

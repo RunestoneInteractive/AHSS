@@ -610,7 +610,7 @@
       Here we use a new example to examine a special estimate of the standard error when the null hypothesis is that two population proportions equal each other, i.e.
       <m>H_0</m>: <m>p_1 = p_2</m>.
       We investigate whether the way a question is phrased can influence a person's response.
-      Pew Research Center conducted a survey with the following question:<fn><url href="https://www.people-press.org/2012/03/26/public-remains-split-on-health-care-bill-opposed-to-mandate/">https://www.people-press.org/2012/03/26/public-remains-split-on-health-care-bill-opposed-to-mandate/</url>. Sample sizes for each polling group are approximate.
+      Pew Research Center conducted a survey with the following question:<fn><url href="https://www.people-press.org/2012/03/26/public-remains-split-on-health-care-bill-opposed-to-mandate/" visual="www.people-press.org/2012/03/26/public-remains-split-on-health-care-bill-opposed-to-mandate/">https://www.people-press.org/2012/03/26/public-remains-split-on-health-care-bill-opposed-to-mandate/</url>. Sample sizes for each polling group are approximate.
       </fn>
     </p>
     <blockquote>
@@ -1492,7 +1492,7 @@
         Patients were randomly assigned into treatment and control groups.
         Patients in the treatment group received a transplant,
         and those in the control group did not.
-        The table below displays how many patients survived and died in each group.<fn>B. Turnbull et al. <url href="https://www.jstor.org/stable/2285502?seq=1"><q>Survivorship of Heart Transplant Data</q></url>. In: <em>Journal of the American Statistical Association</em> 69 (1974), pp. 74-80.</fn>
+        The table below displays how many patients survived and died in each group.<fn>B. Turnbull et al. <url href="https://www.jstor.org/stable/2285502?seq=1" visual="www.jstor.org/stable/2285502?seq=1"><q>Survivorship of Heart Transplant Data</q></url>. In: <em>Journal of the American Statistical Association</em> 69 (1974), pp. 74-80.</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -1544,7 +1544,7 @@
         <m>(p_{male} - p_{female})</m> was calculated to be (0.02, 0.06).
         Based on this information,
         determine if the following statements are true or false,
-        and explain your reasoning for each statement you identify as false.<fn>L Ellis and C Ficek. <url href="https://www.sciencedirect.com/science/article/abs/pii/S0191886900002312"><q>Color preferences according to gender and sexual orientation</q></url>. In: <em>Personality and Individual Differences</em> 31.8 (2001), pp. 1375-1379.</fn>
+        and explain your reasoning for each statement you identify as false.<fn>L Ellis and C Ficek. <url href="https://www.sciencedirect.com/science/article/abs/pii/S0191886900002312" visual="www.sciencedirect.com/science/article/abs/pii/S0191886900002312"><q>Color preferences according to gender and sexual orientation</q></url>. In: <em>Personality and Individual Differences</em> 31.8 (2001), pp. 1375-1379.</fn>
         <ol>
           <li>
             <p>
@@ -1604,7 +1604,7 @@
         is (0.07, 0.15).
         Based on this information,
         determine if the following statements are true or false,
-        and explain your reasoning if you identify the statement as false. <fn>The Pew Research Center, <url href="https://www.pewresearch.org/wp-content/uploads/sites/4/legacy-pdf/652.pdf">Americans Spending More Time Following the News</url>, data collected June 8-28, 2010.</fn>
+        and explain your reasoning if you identify the statement as false. <fn>The Pew Research Center, <url href="https://www.pewresearch.org/wp-content/uploads/sites/4/legacy-pdf/652.pdf" visual="www.pewresearch.org/wp-content/uploads/sites/4/legacy-pdf/652.pdf">Americans Spending More Time Following the News</url>, data collected June 8-28, 2010.</fn>
         <ol>
           <li>
             <p>
@@ -1685,7 +1685,7 @@
         According to a report on sleep deprivation by the Centers for Disease Control and Prevention,
         the proportion of California residents who reported insufficient rest or sleep during each of the preceding 30 days is 8.0%, while this proportion is 8.8% for Oregon residents.
         These data are based on simple random samples of 11,545 California and 4,691 Oregon residents.
-        Calculate a 95% confidence interval for the difference between the proportions of Californians and Oregonians who are sleep deprived and interpret it in context of the data.<fn>CDC, <url href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5842a2.htm">Perceived Insuficient Rest or Sleep Among Adults | United States, 2008.</url></fn>
+        Calculate a 95% confidence interval for the difference between the proportions of Californians and Oregonians who are sleep deprived and interpret it in context of the data.<fn>CDC, <url href="https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5842a2.htm" visual="www.cdc.gov/mmwr/preview/mmwrhtml/mm5842a2.htm">Perceived Insuficient Rest or Sleep Among Adults | United States, 2008.</url></fn>
       </p>
     </statement>
   </exercise>
@@ -1851,7 +1851,7 @@
       <p>
         A news article reports that <q>Americans have differing views on two potentially inconvenient and invasive practices that airports could implement to uncover potential terrorist attacks.</q> This news piece was based on a survey conducted among a random sample of 1,137 adults nationwide,
         where one of the questions on the survey was <q>Some airports are now using <sq>full-body</sq> digital x-ray machines to electronically screen passengers in airport security lines.
-        Do you think these new x-ray machines should or should not be used at airports?</q> Below is a summary of responses based on party affiliation. <fn>S. Condon. <url href="https://www.cbsnews.com/news/poll-4-in-5-support-full-body-airport-scanners/"><q>Poll: 4 in 5 Support Full-Body Airport Scanners</q></url>. In: <em>CBS News</em> (2010).</fn>
+        Do you think these new x-ray machines should or should not be used at airports?</q> Below is a summary of responses based on party affiliation. <fn>S. Condon. <url href="https://www.cbsnews.com/news/poll-4-in-5-support-full-body-airport-scanners/" visual="www.cbsnews.com/news/poll-4-in-5-support-full-body-airport-scanners/"><q>Poll: 4 in 5 Support Full-Body Airport Scanners</q></url>. In: <em>CBS News</em> (2010).</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -1923,7 +1923,7 @@
       <p>
         The National Sleep Foundation conducted a survey on the sleep habits of randomly sampled transportation workers and a control sample of non-transportation workers.
         The results of the survey are shown below.
-        <fn>National Sleep Foundation, <url href="https://www.sleepfoundation.org/professionals/sleep-americar-polls/2012-transportation-workers-sleep">2012 Sleep in America Poll: Transportation Workers' Sleep</url>, 2012.</fn>
+        <fn>National Sleep Foundation, <url href="https://www.sleepfoundation.org/professionals/sleep-americar-polls/2012-transportation-workers-sleep" visual="www.sleepfoundation.org/professionals/sleep-americar-polls/2012-transportation-workers-sleep">2012 Sleep in America Poll: Transportation Workers' Sleep</url>, 2012.</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -2001,7 +2001,7 @@
       <p>
         Researchers studying the link between prenatal vitamin use and autism surveyed the mothers of a random sample of children aged 24 - 60 months with autism and conducted another separate random sample for children with typical development.
         The table below shows the number of mothers in each group who did and did not use prenatal vitamins during the three months before pregnancy (periconceptional period).
-        <fn>R.J. Schmidt et al. <url href="https://www.ncbi.nlm.nih.gov/pubmed/21610500"><q>Prenatal vitamins, one-carbon metabolism gene variants, and risk for autism</q></url>. In: <em>Epidemiology</em> 22.4 (2011), p. 476.</fn>
+        <fn>R.J. Schmidt et al. <url href="https://www.ncbi.nlm.nih.gov/pubmed/21610500" visual="www.ncbi.nlm.nih.gov/pubmed/21610500"><q>Prenatal vitamins, one-carbon metabolism gene variants, and risk for autism</q></url>. In: <em>Epidemiology</em> 22.4 (2011), p. 476.</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -2060,7 +2060,7 @@
             Explain your answer.
             Additionally,
             propose an alternative title.
-            <fn>R.C. Rabin. <url href="https://www.nytimes.com/2011/06/14/health/research/14patterns.html"><q>Patterns: Prenatal Vitamins May Ward Off Autism</q></url>. In: <em>New York Times</em> (2011).</fn>
+            <fn>R.C. Rabin. <url href="https://www.nytimes.com/2011/06/14/health/research/14patterns.html" visual="www.nytimes.com/2011/06/14/health/research/14patterns.html"><q>Patterns: Prenatal Vitamins May Ward Off Autism</q></url>. In: <em>New York Times</em> (2011).</fn>
           </p>
         </li>
       </ol>
@@ -2083,7 +2083,7 @@
         (an outcome called <em>virologic failure</em>).
         Twenty-six of the 120 women treated with Nevaripine experienced virologic failure,
         while 10 of the 120 women treated with the other drug experienced virologic failure.
-        <fn>S. Lockman et al. <url href="https://www.nejm.org/doi/pdf/10.1056/NEJMoa062876"><q>Response to antiretroviral therapy after a single, peripartum dose of nevirapine</q></url>. In: <em>Obstetrical &amp; gynecological survey</em> 62.6 (2007), p. 361.</fn>
+        <fn>S. Lockman et al. <url href="https://www.nejm.org/doi/pdf/10.1056/NEJMoa062876" visual="www.nejm.org/doi/pdf/10.1056/NEJMoa062876"><q>Response to antiretroviral therapy after a single, peripartum dose of nevirapine</q></url>. In: <em>Obstetrical &amp; gynecological survey</em> 62.6 (2007), p. 361.</fn>
         <ol>
           <li>
             <p>

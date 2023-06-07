@@ -142,7 +142,7 @@
       Each point represents a single point from the data.
     </p>
     <figure xml:id="possumpic">
-      <caption>The common brushtail possum of Australia. Photo by Peter Firminger on Flickr: <url href="https://www.flickr.com/photos/wollombi/58499575/">http://flic.kr/p/6aPTn</url>, <url href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
+      <caption>The common brushtail possum of Australia. Photo by Peter Firminger on Flickr: <url href="https://www.flickr.com/photos/wollombi/58499575/" visual="www.flickr.com/photos/wollombi/58499575/">http://flic.kr/p/6aPTn</url>, <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
       <image width="70%" source="images/regression/possumPic.jpg" />
     </figure>
     <figure xml:id="scattHeadLTotalL">
@@ -524,7 +524,7 @@
           This group of four graphs, known as Anscombe's Quartet,
           remind us that knowing the value of the correlation does not tell us what the corresponding scatterplot looks like.
           It is always important to first graph the data.
-          Investigate Anscombe's Quartet in Desmos: <url href="https://www.desmos.com/calculator/paknt6oneh">https://www.desmos.com/calculator/paknt6oneh.</url>
+          Investigate Anscombe's Quartet in Desmos: <url href="https://www.desmos.com/calculator/paknt6oneh" visual="www.desmos.com/calculator/paknt6oneh">https://www.desmos.com/calculator/paknt6oneh.</url>
         </p>
       </solution>
     </example>
@@ -1025,7 +1025,7 @@
       <p>
         A study conducted at the University of Denver investigated whether babies take longer to learn to crawl in cold months,
         when they are often bundled in clothes that restrict their movement,
-        than in warmer months.<fn>J.B. Benson. <url href="https://www.sciencedirect.com/science/article/abs/pii/0163638393800298"><q>Season of birth and onset of locomotion: Theoretical and methodological implications</q></url>. In: <em>Infant behavior and development</em> 16.1 (1993), pp. 69-81. issn: 0163-6383.</fn> Infants born during the study year were split into twelve groups,
+        than in warmer months.<fn>J.B. Benson. <url href="https://www.sciencedirect.com/science/article/abs/pii/0163638393800298" visual="www.sciencedirect.com/science/article/abs/pii/0163638393800298"><q>Season of birth and onset of locomotion: Theoretical and methodological implications</q></url>. In: <em>Infant behavior and development</em> 16.1 (1993), pp. 69-81. issn: 0163-6383.</fn> Infants born during the study year were split into twelve groups,
         one for each birth month.
         We consider the average crawling age of babies in each group against the average temperature when the babies are six months old
         (that's when babies often begin trying to crawl).

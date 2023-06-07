@@ -44,7 +44,7 @@
     <title>Infant mortality</title>
     <statement>
       <p>
-        The infant mortality rate is defined as the number of infant deaths per 1,000 live births. This rate is often used as an indicator of the level of health in a country. The relative frequency histogram below shows the distribution of estimated infant death rates for 224 countries in 2014. <fn> CIA Factbook, <url href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html"> Country Comparison, 2014.</url></fn>
+        The infant mortality rate is defined as the number of infant deaths per 1,000 live births. This rate is often used as an indicator of the level of health in a country. The relative frequency histogram below shows the distribution of estimated infant death rates for 224 countries in 2014. <fn> CIA Factbook, <url href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html" visual="www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html"> Country Comparison, 2014.</url></fn>
       </p>
       <sidebyside>
         <ol marker="a)">
@@ -109,7 +109,7 @@
     <title>Oscar winners</title>
     <statement>
       <p>
-        The first Oscar awards for best actor and best actress were given out in 1929. The histograms below show the age distribution for all of the best actor and best actress winners from 1929 to 2018. Summary statistics for these distributions are also provided. Compare the distributions of ages of best actor and actress winners<fn>Oscar winners from 1929-2018, data up to 2009 from the <url href="https://ww2.amstat.org/publications/jse/jse_data_archive.htm"> Journal of Statistics Education data archive</url> and for more current data from <url href="https://www.wikipedia.org/"> wikipedia.org/</url></fn>
+        The first Oscar awards for best actor and best actress were given out in 1929. The histograms below show the age distribution for all of the best actor and best actress winners from 1929 to 2018. Summary statistics for these distributions are also provided. Compare the distributions of ages of best actor and actress winners<fn>Oscar winners from 1929-2018, data up to 2009 from the <url href="https://ww2.amstat.org/publications/jse/jse_data_archive.htm" visual="ww2.amstat.org/publications/jse/jse_data_archive.htm"> Journal of Statistics Education data archive</url> and for more current data from <url href="https://www.wikipedia.org/" visual="www.wikipedia.org/"> wikipedia.org/</url></fn>
       </p>
 
       <sidebyside>

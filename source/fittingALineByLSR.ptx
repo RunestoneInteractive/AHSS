@@ -75,7 +75,7 @@
     <p>
       This section considers family income and gift aid data from a random sample of fifty students in the freshman class of Elmhurst College in Illinois.<fn>
       These data were sampled from a table of data for all freshmen from the 2011 class at Elmhurst College that accompanied an article titled
-      <em>What Students Really Pay to Go to College</em> published online by <em>The Chronicle of Higher Education</em> <url href="https://www.chronicle.com/article/What-Students-Really-Pay-to-Go/131435">chronicle.com/article/What-Students-Really-Pay-to-Go/131435</url></fn> Gift aid is financial aid that does not need to be paid back,
+      <em>What Students Really Pay to Go to College</em> published online by <em>The Chronicle of Higher Education</em> <url href="https://www.chronicle.com/article/What-Students-Really-Pay-to-Go/131435" visual="www.chronicle.com/article/What-Students-Really-Pay-to-Go/131435">chronicle.com/article/What-Students-Really-Pay-to-Go/131435</url></fn> Gift aid is financial aid that does not need to be paid back,
       as opposed to a loan.
       A scatterplot of the data is shown in <xref ref="elmhurstScatterW2Lines"></xref> along with two linear fits.
       The lines follow a negative trend in the data;
@@ -124,7 +124,7 @@
       There is no other line about which the sum of the squared error will be smaller.
     </p>
     <figure xml:id="leastSquares">
-      <caption>A visualization of least squares regression using Desmos.  Try out this and other interactive Desmos activities at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
+      <caption>A visualization of least squares regression using Desmos.  Try out this and other interactive Desmos activities at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7" visual="teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
     	<image width="70%" source="images/regression/leastSquares.png" />
     </figure>
   </subsection>
@@ -634,7 +634,7 @@
       </md>
     </p>
     <figure>
-      <caption>In <xref ref="reg_line_interactive_one"></xref> the regression line is equivalent to <m>\bar{y}</m>; <m>R^2 = 0</m>. In <xref ref="reg_line_interactive_two"></xref> the regression line passes through all of the points; <m>R^2=1</m>.  Try out this and other interactive Desmos activities at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
+      <caption>In <xref ref="reg_line_interactive_one"></xref> the regression line is equivalent to <m>\bar{y}</m>; <m>R^2 = 0</m>. In <xref ref="reg_line_interactive_two"></xref> the regression line passes through all of the points; <m>R^2=1</m>.  Try out this and other interactive Desmos activities at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7" visual="teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
     	<sidebyside>
         <figure xml:id="reg_line_interactive_one">
           <caption></caption>
@@ -976,7 +976,7 @@
     <example>
       <statement>
         <p>
-          Use the full <c>loan50</c> data set <url href="https://www.openintro.org/data/">(openintro.org/ahss/data)</url> and this <url href="https://teacher.desmos.com/activitybuilder/custom/5cbbf169091fc258cf5b2209">Desmos Calculator</url> (openintro.org/ahss/desmos) to draw the scatterplot and find the equation of the least squares regression line for prediction loan amount <m>(y)</m> from total income <m>(x)</m>.
+          Use the full <c>loan50</c> data set <url href="https://www.openintro.org/data/" visual="www.openintro.org/data/">(openintro.org/ahss/data)</url> and this <url href="https://teacher.desmos.com/activitybuilder/custom/5cbbf169091fc258cf5b2209" visual="teacher.desmos.com/activitybuilder/custom/5cbbf169091fc258cf5b2209">Desmos Calculator</url> (openintro.org/ahss/desmos) to draw the scatterplot and find the equation of the least squares regression line for prediction loan amount <m>(y)</m> from total income <m>(x)</m>.
         </p>
       </statement>
       <solution>
@@ -1108,7 +1108,7 @@
       We'll consider eBay auctions for a video game,
       <em>Mario Kart</em> for the Nintendo Wii,
       where both the total price of the auction and the condition of the game were recorded.
-      <fn>These data were collected in Fall 2009 and may be found at <url href="https://www.openintro.org/book/stat/">openintro.org/stat</url>.
+      <fn>These data were collected in Fall 2009 and may be found at <url href="https://www.openintro.org/book/stat/" visual="www.openintro.org/book/stat/">openintro.org/stat</url>.
       </fn> Here we want to predict total price based on game condition,
       which takes values <c>used</c> and <c>new</c>.
       A plot of the auction data is shown in <xref ref="marioKartNewUsed"></xref>.
@@ -1432,7 +1432,7 @@
     <title>Tourism spending</title>
     <statement>
       <p>
-        The Association of Turkish Travel Agencies reports the number of foreign tourists visiting Turkey and tourist spending by year.<fn>Association of Turkish Travel Agencies, <url href="https://www.tursab.org.tr/">Foreign Visitors Figure &amp; Tourist Spendings By Years</url>.</fn> Three plots are provided:
+        The Association of Turkish Travel Agencies reports the number of foreign tourists visiting Turkey and tourist spending by year.<fn>Association of Turkish Travel Agencies, <url href="https://www.tursab.org.tr/" visual="www.tursab.org.tr/">Foreign Visitors Figure &amp; Tourist Spendings By Years</url>.</fn> Three plots are provided:
         scatterplot showing the relationship between these two variables along with the least squares fit,
         residuals plot, and histogram of residuals.
       </p>
@@ -1489,7 +1489,7 @@
       <p>
         The scatterplot below shows the relationship between the number of calories and amount of carbohydrates
         (in grams)
-        Starbucks food menu items contain.<fn>Source: Starbucks.com, collected on March 10, 2011, <url href="https://www.starbucks.com/menu">www.starbucks.com/menu/nutrition</url>.</fn> Since Starbucks only lists the number of calories on the display items,
+        Starbucks food menu items contain.<fn>Source: Starbucks.com, collected on March 10, 2011, <url href="https://www.starbucks.com/menu" visual="www.starbucks.com/menu">www.starbucks.com/menu/nutrition</url>.</fn> Since Starbucks only lists the number of calories on the display items,
         we are interested in predicting the amount of carbs a menu item has based on its calorie content.
       </p>
         <sidebyside>
@@ -1884,7 +1884,7 @@
     <title>Urban homeowners, Part I</title>
     <statement>
       <p>
-        The scatterplot below shows the percent of families who own their home vs. the percent of the population living in urban areas.<fn>United States Census Bureau, <url href="https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html">2010 Census Urban and Rural Cassification and Urban Area Criteria</url> and <url href="https://www.census.gov/prod/cen2010/briefs/c2010br-07.pdf">Housing Characteristics: 2010</url>.</fn> There are 52 observations,
+        The scatterplot below shows the percent of families who own their home vs. the percent of the population living in urban areas.<fn>United States Census Bureau, <url href="https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html" visual="www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural/2010-urban-rural.html">2010 Census Urban and Rural Cassification and Urban Area Criteria</url> and <url href="https://www.census.gov/prod/cen2010/briefs/c2010br-07.pdf" visual="www.census.gov/prod/cen2010/briefs/c2010br-07.pdf">Housing Characteristics: 2010</url>.</fn> There are 52 observations,
         each corresponding to a state in the US. Puerto Rico and District of Columbia are also included.
       </p>
       <sidebyside>

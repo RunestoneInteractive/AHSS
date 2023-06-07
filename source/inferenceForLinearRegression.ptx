@@ -631,7 +631,7 @@
       no such correlation was found.
     </p>
     <figure xml:id="unemploymentAndChangeInHouse">
-      <caption>The percent change in House seats for the President's party in each election from 1898 to 2018 plotted against the unemployment rate. The two points for the Great Depression have been removed, and a least squares regression line has been fit to the data.  Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25">Tableau Public</url>.</caption>
+      <caption>The percent change in House seats for the President's party in each election from 1898 to 2018 plotted against the unemployment rate. The two points for the Great Depression have been removed, and a least squares regression line has been fit to the data.  Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25">Tableau Public</url>.</caption>
       <image width="70%" source="images/regression/unemploymentAndChangeInHouse.png" />
     </figure>
     <exercise>
@@ -688,7 +688,7 @@
       <p>
         What does it mean to say that the slope of the population regression line is significantly greater than 0?
         And why do we tend to use a cutoff of <m>\alpha = 0.05</m>?
-        This 5-minute interactive task will explain: <url href="https://www.openintro.org/book/stat/why05/">www.openintro.org/why05</url>
+        This 5-minute interactive task will explain: <url href="https://www.openintro.org/book/stat/why05/" visual="www.openintro.org/book/stat/why05/">www.openintro.org/why05</url>
       </p>
     </assemblage>
   </subsection>
@@ -703,7 +703,7 @@
       The test statistic <m>T</m> follows a <m>t</m>-distribution with <m>n-2</m> degrees of freedom.
     </p>
     <figure xml:id="unemploymentAndChangeInHouseResiduals">
-      <caption>The residual plot shows no pattern that would indicate that a linear model is inappropriate.  Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25">Tableau Public</url>.</caption>
+      <caption>The residual plot shows no pattern that would indicate that a linear model is inappropriate.  Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter8_8/Fig8_248_25">Tableau Public</url>.</caption>
       <image width="70%" source="images/regression/unemploymentAndChangeInHouseResiduals.png" />
     </figure>
     <assemblage>

@@ -684,7 +684,7 @@
       we believe it is reasonable that the population distribution of mercury content in dolphins could be nearly normal.
     </p>
     <figure xml:id="rissosDolphin">
-      <caption>A Risso's dolphin. Photo by Mike Baird (<url href="www.bairdphotos.com">www.bairdphotos.com</url>). <url href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
+      <caption>A Risso's dolphin. Photo by Mike Baird (<url href="www.bairdphotos.com">www.bairdphotos.com</url>). <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
       <image width="70%" source="images/inference_means/rissosDolphin.jpg" />
     </figure>
     <table xml:id="summaryStatsOfHgInMuscleOfRissosDolphins">
@@ -906,7 +906,7 @@
     <example>
       <statement>
         <p>
-          The FDA's webpage provides some data on mercury content of fish.<fn><url href="https://www.fda.gov/food/metals/mercury-levels-commercial-fish-and-shellfish-1990-2012">www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm</url></fn>
+          The FDA's webpage provides some data on mercury content of fish.<fn><url href="https://www.fda.gov/food/metals/mercury-levels-commercial-fish-and-shellfish-1990-2012" visual="www.fda.gov/food/metals/mercury-levels-commercial-fish-and-shellfish-1990-2012">www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm</url></fn>
           Based on a sample of 15 croaker white fish (Pacific),
           a sample mean and standard deviation were computed as 0.287 and 0.069 ppm
           (parts per million),

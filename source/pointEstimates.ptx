@@ -424,7 +424,7 @@
       and we call the method <term>precise</term>.
     </p>
     <figure xml:id="fourSamplingDistributions">
-      <caption>Four sampling distributions shown, with parameter identified. Explore these distributions through a Desmos activity at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
+      <caption>Four sampling distributions shown, with parameter identified. Explore these distributions through a Desmos activity at <url href="https://teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7" visual="teacher.desmos.com/collection/5cae8f9c0924751e461dd6f7">openintro.org/ahss/desmos</url>.</caption>
       <image width="90%" source="images/foundations_inference/foursamplingdistributions.png" />
     </figure>
     <example>

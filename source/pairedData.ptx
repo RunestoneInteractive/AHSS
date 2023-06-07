@@ -197,7 +197,7 @@
     <figure xml:id="diffInTextbookPricesF18">
       <caption>Histogram of the difference in price for
       each book sampled.
-      These data are very strongly skewed<!-- <idx><h>skew</h><h>example: very strong</h></idx> -->. Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter7_7/Fig7_10">Tableau Public</url>.</caption>
+      These data are very strongly skewed<!-- <idx><h>skew</h><h>example: very strong</h></idx> -->. Explore this data set on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter7_7/Fig7_10" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter7_7/Fig7_10">Tableau Public</url>.</caption>
       <image width="65%" source="images/inference_means/diffInTextbookPricesF18.png" />
     </figure>
     <exercise>

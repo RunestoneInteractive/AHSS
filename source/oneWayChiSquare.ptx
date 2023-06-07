@@ -988,7 +988,7 @@
       Starting at end of 2016, over the course of several weeks,
       he collected a sample of 712 candies, or about 1.5 pounds.
       We will investigate his results in the next example.
-      You can read about his adventure in the Quartz article cited in the footnote below.<fn><url href="https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/">https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/</url></fn>
+      You can read about his adventure in the Quartz article cited in the footnote below.<fn><url href="https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/" visual="qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/">https://qz.com/918008/the-color-distribution-of-mms-as-determined-by-a-phd-in-statistics/</url></fn>
     </p>
     <example>
       <statement>
@@ -1886,7 +1886,7 @@
         </ol>
     	</p>
       <figure>
-        <caption>Photo by Shrikant Rao <url href="https://www.flickr.com/photos/9494793@N06/2595031089/">(http://ic.kr/p/4Xjdkk)</url> <url href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
+        <caption>Photo by Shrikant Rao <url href="https://www.flickr.com/photos/9494793@N06/2595031089/" visual="www.flickr.com/photos/9494793@N06/2595031089/">(http://ic.kr/p/4Xjdkk)</url> <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
         <image width="50%" source="images/inference_props/barking_deer.jpg" />
       </figure>
     </statement>

@@ -1035,7 +1035,7 @@
         where each slot has an equal chance of capturing the ball.
       </p>
       <figure>
-        <caption>Photo by Hakan Dahlstrom <url href="https://www.flickr.com/photos/dahlstroms/5276348473/">(http://ic.kr/p/93fEzp)</url>. <url href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
+        <caption>Photo by Hakan Dahlstrom <url href="https://www.flickr.com/photos/dahlstroms/5276348473/" visual="www.flickr.com/photos/dahlstroms/5276348473/">(http://ic.kr/p/93fEzp)</url>. <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license</url></caption>
         <image width="73%" source="images/probability/roulette_wheel.jpg" />
       </figure>
       <p>
@@ -1202,7 +1202,7 @@
       <p>
         A Pew Research survey asked 2,373 randomly sampled registered voters their political affiliation (Republican, Democrat,
         or Independent) and whether or not they identify as swing voters. 35% of respondents identified as Independent, 23% identified as swing voters,
-        and 11% identified as both.<fn>Pew Research Center, <url href="https://www.people-press.org/2012/04/17/with-voters-focused-on-economy-obama-lead-narrows/">With Voters Focused on Economy, Obama Lead Narrows,</url> data collected between April 4-15, 2012.</fn>
+        and 11% identified as both.<fn>Pew Research Center, <url href="https://www.people-press.org/2012/04/17/with-voters-focused-on-economy-obama-lead-narrows/" visual="www.people-press.org/2012/04/17/with-voters-focused-on-economy-obama-lead-narrows/">With Voters Focused on Economy, Obama Lead Narrows,</url> data collected between April 4-15, 2012.</fn>
         <ol>
           <li>
             <p>
@@ -1267,7 +1267,7 @@
     <statement>
       <p>
         The American Community Survey is an ongoing survey that provides data every year to give communities the current information they need to plan investments and services.
-        The 2010 American Community Survey estimates that 14.6% of Americans live below the poverty line, 20.7% speak a language other than English foreign language) at home, and 4.2% fall into both categories.<fn>U.S. Census Bureau, 2010 American Community Survey 1-Year Estimates, <url href="https://www.census.gov/topics/population/language-use.html"> Characteristics of People by Language poken at Home</url>.</fn>
+        The 2010 American Community Survey estimates that 14.6% of Americans live below the poverty line, 20.7% speak a language other than English foreign language) at home, and 4.2% fall into both categories.<fn>U.S. Census Bureau, 2010 American Community Survey 1-Year Estimates, <url href="https://www.census.gov/topics/population/language-use.html" visual="www.census.gov/topics/population/language-use.html"> Characteristics of People by Language poken at Home</url>.</fn>
         <ol>
           <li>
             <p>
@@ -1374,7 +1374,7 @@
     <title>Educational attainment of couples</title>
     <statement>
       <p>
-        The table below shows the distribution of education level attained by US residents by gender based on data collected in the 2010 American Community Survey.<fn>U.S. Census Bureau, 2010 American Community Survey 1-Year Estimates, <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1501&amp;prodType=table">Educational Attainment.</url></fn>
+        The table below shows the distribution of education level attained by US residents by gender based on data collected in the 2010 American Community Survey.<fn>U.S. Census Bureau, 2010 American Community Survey 1-Year Estimates, <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1501&amp;prodType=table" visual="factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1501&amp;prodType=table">Educational Attainment.</url></fn>
       </p>
       <sidebyside>
       <tabular>
@@ -1488,7 +1488,7 @@
     <statement>
       <p>
         Data collected at elementary schools in DeKalb County, GA suggest that each year roughly 25% of students miss exactly one day of school, 15% miss 2 days,
-        and 28% miss 3 or more days due to sickness.<fn>S.S. Mizan et al. <url href="https://www.ncbi.nlm.nih.gov/pubmed/21338252"><q>Absence, Extended Absence, and Repeat Tardiness Related to Asthma Status among Elementary School Children</q></url>. In: <em>Journal</em> of Asthma 48.3 (2011), pp. 228-234.</fn>
+        and 28% miss 3 or more days due to sickness.<fn>S.S. Mizan et al. <url href="https://www.ncbi.nlm.nih.gov/pubmed/21338252" visual="www.ncbi.nlm.nih.gov/pubmed/21338252"><q>Absence, Extended Absence, and Repeat Tardiness Related to Asthma Status among Elementary School Children</q></url>. In: <em>Journal</em> of Asthma 48.3 (2011), pp. 228-234.</fn>
         <ol>
           <li>
             <p>

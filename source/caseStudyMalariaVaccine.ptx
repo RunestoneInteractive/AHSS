@@ -563,7 +563,7 @@
         patients in the treatment group got a transplant and those in the control group did not.
         Of the 34 patients in the control group, 30 died.
         Of the 69 people in the treatment group, 45 died.
-        Another variable called <c>survived</c> was used to indicate whether or not the patient was alive at the end of the study.<fn>. Turnbull et al. <url href="https://www.jstor.org/stable/2285502?seq=1#metadata_info_tab_contents"><q>Survivorship of Heart Transplant Data</q>.</url> In: Journal of the American Statistical Association 69 (1974), pp. 74-80.</fn>
+        Another variable called <c>survived</c> was used to indicate whether or not the patient was alive at the end of the study.<fn>. Turnbull et al. <url href="https://www.jstor.org/stable/2285502?seq=1#metadata_info_tab_contents" visual="www.jstor.org/stable/2285502?seq=1#metadata_info_tab_contents"><q>Survivorship of Heart Transplant Data</q>.</url> In: Journal of the American Statistical Association 69 (1974), pp. 74-80.</fn>
       </p>
       <sidebyside>
         <image width="60%" source="images/summarizing/randomization_heart_transplants_mosaic.png" />

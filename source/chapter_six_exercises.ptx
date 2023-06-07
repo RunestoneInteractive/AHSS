@@ -187,7 +187,7 @@
   <title>The Civil Wat</title>
     <statement>
       <p>
-      	A national survey conducted among a simple random sample of 1,507 adults shows that 56% of Americans think the Civil War is still relevant to American politics and political life.<fn>Pew Research Center Publications, <url href="https://www.people-press.org/2011/04/08/civil-war-at-150-still-relevant-still-divisive/">Civil War at 150: Still Relevant, Still Divisive</url>, data collected between March 30 - April 3, 2011.</fn>
+      	A national survey conducted among a simple random sample of 1,507 adults shows that 56% of Americans think the Civil War is still relevant to American politics and political life.<fn>Pew Research Center Publications, <url href="https://www.people-press.org/2011/04/08/civil-war-at-150-still-relevant-still-divisive/" visual="www.people-press.org/2011/04/08/civil-war-at-150-still-relevant-still-divisive/">Civil War at 150: Still Relevant, Still Divisive</url>, data collected between March 30 - April 3, 2011.</fn>
         <ol>
           <li>
             <p>
@@ -327,7 +327,7 @@
   <title>Diabetes and unemployment</title>
     <statement>
       <p>
-      	A Gallup poll surveyed Americans about their employment status and whether or not they have diabetes. The survey results indicate that 1.5% of the 47,774 employed (full or part time) and 2.5% of the 5,855 unemployed 18-29 year olds have diabetes.<fn>Gallup Wellbeing, <url href="https://news.gallup.com/poll/155408/Employed-Americans-Better-Health-Unemployed.aspx">Employed Americans in Better Health Than the Unemployed</url>, data collected Jan. 2, 2011-May 21, 2012.</fn>
+      	A Gallup poll surveyed Americans about their employment status and whether or not they have diabetes. The survey results indicate that 1.5% of the 47,774 employed (full or part time) and 2.5% of the 5,855 unemployed 18-29 year olds have diabetes.<fn>Gallup Wellbeing, <url href="https://news.gallup.com/poll/155408/Employed-Americans-Better-Health-Unemployed.aspx" visual="news.gallup.com/poll/155408/Employed-Americans-Better-Health-Unemployed.aspx">Employed Americans in Better Health Than the Unemployed</url>, data collected Jan. 2, 2011-May 21, 2012.</fn>
         <ol>
           <li>
             <p>
@@ -384,7 +384,7 @@
   <title>2010 Healthcare Law</title>
     <statement>
       <p>
-      	On June 28, 2012 the U.S. Supreme Court upheld the much debated 2010 healthcare law, declaring it constitutional. A Gallup poll released the day after this decision indicates that 46% of 1,012 Americans agree with this decision. At a 95% confidence level, this sample has a 3% margin of error. Based on this information, determine if the following statements are true or false, and explain your reasoning.<fn>Gallup, <url href="https://news.gallup.com/poll/155447/Americans-Issue-Split-Decision-Healthcare-Ruling.aspx">Americans Issue Split Decision on Healthcare Ruling,</url> data collected June 28, 2012.</fn>
+      	On June 28, 2012 the U.S. Supreme Court upheld the much debated 2010 healthcare law, declaring it constitutional. A Gallup poll released the day after this decision indicates that 46% of 1,012 Americans agree with this decision. At a 95% confidence level, this sample has a 3% margin of error. Based on this information, determine if the following statements are true or false, and explain your reasoning.<fn>Gallup, <url href="https://news.gallup.com/poll/155447/Americans-Issue-Split-Decision-Healthcare-Ruling.aspx" visual="news.gallup.com/poll/155447/Americans-Issue-Split-Decision-Healthcare-Ruling.aspx">Americans Issue Split Decision on Healthcare Ruling,</url> data collected June 28, 2012.</fn>
         <ol>
           <li>
             <p>
@@ -415,7 +415,7 @@
   <title>Browsing on the mobile device</title>
     <statement>
       <p>
-      	A survey of 2,254 American adults indicates that 17% of cell phone owners browse the internet exclusively on their phone rather than a computer or other device.<fn>Pew Internet, <url href="https://www.pewresearch.org/internet/Reports/2012/Cell-Internet-Use-2012.aspx">Cell Internet Use 2012</url>, data collected between March 15 - April 13, 2012.</fn>
+      	A survey of 2,254 American adults indicates that 17% of cell phone owners browse the internet exclusively on their phone rather than a computer or other device.<fn>Pew Internet, <url href="https://www.pewresearch.org/internet/Reports/2012/Cell-Internet-Use-2012.aspx" visual="www.pewresearch.org/internet/Reports/2012/Cell-Internet-Use-2012.aspx">Cell Internet Use 2012</url>, data collected between March 15 - April 13, 2012.</fn>
         <ol>
           <li>
             <p>
@@ -452,7 +452,7 @@
   <title>Coffee and Depression</title>
     <statement>
       <p>
-      	Researchers conducted a study investigating the relationship between caffeinated coffee consumption and risk of depression in women. They collected data on 50,739 women free of depression symptoms at the start of the study in the year 1996, and these women were followed through 2006. The researchers used questionnaires to collect data on caffeinated coffee consumption, asked each individual about physician- diagnosed depression, and also asked about the use of antidepressants. The table below shows the distribution of incidences of depression by amount of caffeinated coffee consumption.<fn>M. Lucas et al. <url href="https://www.openintro.org/redirect.php?go=textbook-coffee_caffeine_depression_2011&amp;referrer=ahss2_pdf"><q>Coffee, caffeine, and risk of depression among women</q>.</url> In: <em>Archives of internal medicine</em> 171.17 (2011), p. 1571.</fn>
+      	Researchers conducted a study investigating the relationship between caffeinated coffee consumption and risk of depression in women. They collected data on 50,739 women free of depression symptoms at the start of the study in the year 1996, and these women were followed through 2006. The researchers used questionnaires to collect data on caffeinated coffee consumption, asked each individual about physician- diagnosed depression, and also asked about the use of antidepressants. The table below shows the distribution of incidences of depression by amount of caffeinated coffee consumption.<fn>M. Lucas et al. <url href="https://www.openintro.org/redirect.php?go=textbook-coffee_caffeine_depression_2011&amp;referrer=ahss2_pdf" visual="www.openintro.org/redirect.php?go=textbook-coffee_caffeine_depression_2011&amp;referrer=ahss2_pdf"><q>Coffee, caffeine, and risk of depression among women</q>.</url> In: <em>Archives of internal medicine</em> 171.17 (2011), p. 1571.</fn>
       </p>
 	<sidebyside>
 	<tabular>
@@ -538,7 +538,7 @@
           </li>
           <li>
             <p>
-            	One of the authors of this study was quoted on the NYTimes as saying it was <q>too early to recommend that women load up on extra coffee</q> based on just this study.<fn>A. O'Connor. <url href="https://well.blogs.nytimes.com/2011/09/26/coffee-drinking-linked-to-less-depression-in-women"><q>Coffee Drinking Linked to Less Depression in Women</q></url>. In: New York Times (2011).</fn> Do you agree with this statement? Explain your reasoning.
+            	One of the authors of this study was quoted on the NYTimes as saying it was <q>too early to recommend that women load up on extra coffee</q> based on just this study.<fn>A. O'Connor. <url href="https://well.blogs.nytimes.com/2011/09/26/coffee-drinking-linked-to-less-depression-in-women" visual="well.blogs.nytimes.com/2011/09/26/coffee-drinking-linked-to-less-depression-in-women"><q>Coffee Drinking Linked to Less Depression in Women</q></url>. In: New York Times (2011).</fn> Do you agree with this statement? Explain your reasoning.
             </p>
           </li>
         </ol>

@@ -256,7 +256,7 @@
           According to the 2010 US Census, 7.6% of residents in the state of Alaska were under 5 years old.
           A researcher plans to take a random sample of residents from Alaska to test whether or not this is still the case.
           Write out the hypotheses that the researcher should test in both plain and statistical language.
-          <fn><m>H_{0}: p=0.076</m>; The proportion of residents under 5 years old in Alaska is <em>unchanged</em> from 2010. <m>H_{A}: p \ne 0.076</m>; The proportion of residents under 5 years old in Alaska has changed from 2010. Note that it could have increased or decreased. <url href="https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml">https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml</url></fn>
+          <fn><m>H_{0}: p=0.076</m>; The proportion of residents under 5 years old in Alaska is <em>unchanged</em> from 2010. <m>H_{A}: p \ne 0.076</m>; The proportion of residents under 5 years old in Alaska has changed from 2010. Note that it could have increased or decreased. <url href="https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml" visual="factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml">https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml</url></fn>
         </p>
       </statement>
     </exercise>
@@ -507,7 +507,7 @@
         <em>why 0.05</em>: 
       </p>
       <p>
-        <url href="https://www.openintro.org/book/stat/why05/">www.openintro.org/why05</url>
+        <url href="https://www.openintro.org/book/stat/why05/" visual="www.openintro.org/book/stat/why05/">www.openintro.org/why05</url>
       </p>
       <p>
         Sometimes it's a good idea to deviate from the standard.
@@ -1252,7 +1252,7 @@
     <statement>
       <p>
         Teens were surveyed about cyberbullying,
-        and 54% to 64% reported experiencing cyberbullying (95% confidence interval).<fn>Pew Research Center, <url href="https://www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/">A Majority of Teens Have Experienced Some Form of Cyberbullying</url>. September 27, 2018.</fn> Answer the following questions based on this interval.
+        and 54% to 64% reported experiencing cyberbullying (95% confidence interval).<fn>Pew Research Center, <url href="https://www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/" visual="www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/">A Majority of Teens Have Experienced Some Form of Cyberbullying</url>. September 27, 2018.</fn> Answer the following questions based on this interval.
         <ol>
           <li>
             <p>
@@ -1327,7 +1327,7 @@
       <p>
         Do a majority of US adults believe raising the minimum wage will help the economy,
         or is there a majority who do not believe this?
-        A<nbsp/>Rasmussen Reports survey of 1,000 US adults found that 42% believe it will help the economy.<fn>Rasmussen Reports survey, <url href="https://www.rasmussenreports.com/public_content/business/jobs_employment/april_2019/most_favor_minimum_wage_of_10_50_or_higher">Most Favor Minimum Wage of $10.50 Or Higher</url>, April 16, 2019</fn> Conduct an appropriate hypothesis test to help answer the research question.
+        A<nbsp/>Rasmussen Reports survey of 1,000 US adults found that 42% believe it will help the economy.<fn>Rasmussen Reports survey, <url href="https://www.rasmussenreports.com/public_content/business/jobs_employment/april_2019/most_favor_minimum_wage_of_10_50_or_higher" visual="www.rasmussenreports.com/public_content/business/jobs_employment/april_2019/most_favor_minimum_wage_of_10_50_or_higher">Most Favor Minimum Wage of $10.50 Or Higher</url>, April 16, 2019</fn> Conduct an appropriate hypothesis test to help answer the research question.
       </p>
     </statement>
     <solution>

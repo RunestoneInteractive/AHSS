@@ -10,7 +10,7 @@
       i.e. races in the US House of Representatives and the US Senate.
       In addition to point estimates,
       they report confidence intervals.<fn>
-      See: <url href="https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate">https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate</url>
+      See: <url href="https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate" visual="projects.fivethirtyeight.com/2018-midterm-election-forecast/senate">https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate</url>
       </fn> What are confidence intervals,
       and how do we interpret them?
     </p>
@@ -779,7 +779,7 @@
     <statement>
       <p>
         In 2013, the Pew Research Foundation reported that
-        <q>45% of U.S. adults report that they live with one or more chronic conditions</q>.<fn>Pew Research Center, Washington, D.C. <url href="https://www.pewresearch.org/internet/Reports/2013/The-Diagnosis-Difference.aspx">The Diagnosis Difference</url>, November 26, 2013</fn> However,
+        <q>45% of U.S. adults report that they live with one or more chronic conditions</q>.<fn>Pew Research Center, Washington, D.C. <url href="https://www.pewresearch.org/internet/Reports/2013/The-Diagnosis-Difference.aspx" visual="www.pewresearch.org/internet/Reports/2013/The-Diagnosis-Difference.aspx">The Diagnosis Difference</url>, November 26, 2013</fn> However,
         this value was based on a sample,
         so it may not be a perfect estimate for the population parameter of interest on its own.
         The study reported a standard error of about 1.2%, and a normal model may reasonably be used in this setting.
@@ -797,7 +797,7 @@
     <title>Twitter users and news, Part I</title>
     <statement>
       <p>
-        A poll conducted in 2013 found that 52% of U.S. adult Twitter users get at least some news on Twitter.<fn>Pew Research Center, Washington, D.C. <url href="https://www.journalism.org/2013/11/04/twitter-news-consumers-young-mobile-and-educated/">The Diagnosis Difference</url>, November 4, 2013</fn>. The standard error for this estimate was 2.4%, and a normal distribution may be used to model the sample proportion.
+        A poll conducted in 2013 found that 52% of U.S. adult Twitter users get at least some news on Twitter.<fn>Pew Research Center, Washington, D.C. <url href="https://www.journalism.org/2013/11/04/twitter-news-consumers-young-mobile-and-educated/" visual="www.journalism.org/2013/11/04/twitter-news-consumers-young-mobile-and-educated/">The Diagnosis Difference</url>, November 4, 2013</fn>. The standard error for this estimate was 2.4%, and a normal distribution may be used to model the sample proportion.
         Construct a 99% confidence interval for the fraction of U.S. adult Twitter users who get some news on Twitter,
         and interpret the confidence interval in context.
       </p>

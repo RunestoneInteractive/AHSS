@@ -227,7 +227,7 @@
     <title>Cat weights</title>
     <statement>
       <p>
-        The histogram shown below represents the weights (in kg) of 47 female and 97 male cats.<fn>U.S. Census Bureau,<url href="https://www.census.gov/programs-surveys/acs/">2005-2009 American Community Survey.</url></fn>
+        The histogram shown below represents the weights (in kg) of 47 female and 97 male cats.<fn>U.S. Census Bureau,<url href="https://www.census.gov/programs-surveys/acs/" visual="www.census.gov/programs-surveys/acs/">2005-2009 American Community Survey.</url></fn>
       </p>
       <sidebyside>
         <ol>
@@ -272,7 +272,7 @@
         The relative frequency table below displays the distribution of annual total personal income (in 2009 inflation-adjusted dollars) for a representative sample of 96,420,486 Americans.
         These data come from the American Community Survey for 2005-2009.
         This sample is comprised of 59% males and 41% females.
-        <fn>U.S. Census Bureau,<url href="https://www.census.gov/programs-surveys/acs/">2005-2009 American Community Survey.</url></fn>
+        <fn>U.S. Census Bureau,<url href="https://www.census.gov/programs-surveys/acs/" visual="www.census.gov/programs-surveys/acs/">2005-2009 American Community Survey.</url></fn>
       </p>
       <sidebyside>
         <ol>

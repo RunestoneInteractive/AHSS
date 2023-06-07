@@ -287,7 +287,7 @@
       support school lunch programs,
       improve emergency services, build bridges,
       and inform businesses looking to add jobs and expand to new markets,
-      and more.</q><fn><url href="https://www.census.gov/programs-surveys/acs/about.html">https://www.census.gov/programs-surveys/acs/about.html</url></fn> A small subset of the variables from the ACS are summarized in <xref ref="countyVariables"></xref>.
+      and more.</q><fn><url href="https://www.census.gov/programs-surveys/acs/about.html" visual="www.census.gov/programs-surveys/acs/about.html">https://www.census.gov/programs-surveys/acs/about.html</url></fn> A small subset of the variables from the ACS are summarized in <xref ref="countyVariables"></xref>.
     </p>
     <table xml:id="countyDF">
       <title>Eleven rows from the <c>county</c> data set.</title>
@@ -731,7 +731,7 @@
 		<caption>A scatterplot of homeownership versus the percent of units that are in multi-unit structures for US counties.
     	The highlighted dot represents Chattahoochee County, Georgia,
     	which has a multi-unit rate of 39.4% and a homeownership rate of 31.3%.
-    	Explore this scatterplot and dozens of other scatterplots using American Community Survey data on Tableau Public <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose">Click to see</url></caption>
+    	Explore this scatterplot and dozens of other scatterplots using American Community Survey data on Tableau Public <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose">Click to see</url></caption>
     	<image source="images/data_collection/multiunitsVsOwnership.png" width="70%" />
     </figure>
     <p>
@@ -771,7 +771,7 @@
     </example>
     <figure xml:id="pop_change_v_med_income">
       <caption>A scatterplot showing <c>pop_change</c> against <c>median_hh_income</c>.
-      Owsley County of Kentucky, is highlighted, which lost 3.63% of its population from 2010 to 2017 and had median household income of $22,736. Explore this scatterplot and dozens of other scatterplots using American Community Survey data on Tableau Public <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose">Click to see</url>.</caption>
+      Owsley County of Kentucky, is highlighted, which lost 3.63% of its population from 2010 to 2017 and had median household income of $22,736. Explore this scatterplot and dozens of other scatterplots using American Community Survey data on Tableau Public <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter1_36/Youchoose">Click to see</url>.</caption>
       <image source="images/data_collection/pop_change_v_med_income.png" width="70%" />
     </figure>
 
@@ -854,7 +854,7 @@
         Length of gestation data were collected on 143,196 births between the years 1989 and 1993,
         and air pollution exposure during gestation was calculated for each birth.
         The analysis suggested that increased ambient PM<m>_{10}</m> and,
-        to a lesser degree, CO concentrations may be associated with the occurrence of preterm births<fn>B. Ritz et al. <url href="https://journals.lww.com/epidem/Fulltext/2000/09000/Effect_of_Air_Pollution_on_Preterm_Birth_Among.4.aspx"><q>Effect of air pollution on preterm birth among children born in Southern California between 1989 and 1993</q>.In: <em>Epidemiology</em> 11.5 (2000), pp. 502-511.</url></fn> 
+        to a lesser degree, CO concentrations may be associated with the occurrence of preterm births<fn>B. Ritz et al. <url href="https://journals.lww.com/epidem/Fulltext/2000/09000/Effect_of_Air_Pollution_on_Preterm_Birth_Among.4.aspx" visual="journals.lww.com/epidem/Fulltext/2000/09000/Effect_of_Air_Pollution_on_Preterm_Birth_Among.4.aspx"><q>Effect of air pollution on preterm birth among children born in Southern California between 1989 and 1993</q>.In: <em>Epidemiology</em> 11.5 (2000), pp. 502-511.</url></fn> 
         <ol>
           <li>
             <p>
@@ -942,7 +942,7 @@
         The researchers asked each child to toss a fair coin in private and to record the outcome
         (white or black)
         on a paper sheet,
-        and said they would only reward children who report white.<fn>Alessandro Bucciol and Marco Piovesan. <url href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1307694"><q>Luck or cheating? A field experiment on honesty with children</q>.</url> In: Journal of Economic Psychology 32.1 (2011), pp. 73-78.</fn>
+        and said they would only reward children who report white.<fn>Alessandro Bucciol and Marco Piovesan. <url href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1307694" visual="papers.ssrn.com/sol3/papers.cfm?abstract_id=1307694"><q>Luck or cheating? A field experiment on honesty with children</q>.</url> In: Journal of Economic Psychology 32.1 (2011), pp. 73-78.</fn>
         <ol>
           <li>
             <p>
@@ -1056,7 +1056,7 @@
         and geneticist who worked on a data set that contained sepal length and width,
         and petal length and width from three species of iris flowers
         (<em>setosa</em>, <em>versicolor</em> and <em>virginica</em>).
-        There were 50 flowers from each species in the data set.<fn>R.A Fisher.<url href="https://onlinelibrary.wiley.com/store/10.1111/j.1469-1809.1936.tb02137.x/asset/j.1469-1809.1936.tb02137.x.pdf"><q>The Use of Multiple Measurements in Taxonomic Problems</q>.</url> In: Annals of Eugenics 7 (1936), pp. 179-188.</fn>
+        There were 50 flowers from each species in the data set.<fn>R.A Fisher.<url href="https://onlinelibrary.wiley.com/store/10.1111/j.1469-1809.1936.tb02137.x/asset/j.1469-1809.1936.tb02137.x.pdf" visual="onlinelibrary.wiley.com/store/10.1111/j.1469-1809.1936.tb02137.x/asset/j.1469-1809.1936.tb02137.x.pdf"><q>The Use of Multiple Measurements in Taxonomic Problems</q>.</url> In: Annals of Eugenics 7 (1936), pp. 179-188.</fn>
       </p>
       <sidebyside>
       <p>
@@ -1109,7 +1109,7 @@
         <q>cig</q>
         stands for cigarettes, and
         <q>N/A</q>
-        refers to a missing component of the data.<fn>National STEM Centre,<url href="https://www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools">Large Datasets from stats4schools.</url></fn>
+        refers to a missing component of the data.<fn>National STEM Centre,<url href="https://www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools" visual="www.stem.org.uk/resources/elibrary/resource/28452/large-datasets-stats4schools">Large Datasets from stats4schools.</url></fn>
       </p>
       <sidebyside>
       <tabular halign="center">
@@ -1230,7 +1230,7 @@
     <title>US Airports</title>
     <statement>
       <p>
-        The visualization below shows the geographical distribution of airports in the contiguous United States and Washington, DC. This visualization was constructed based on a dataset where each observation is an airport.<fn>Federal Aviation Administration, <url href="https://www.faa.gov/airports/airport_safety/airportdata_5010/">www.faa.gov/airports/airport_safety/airportdata_5010</url></fn>
+        The visualization below shows the geographical distribution of airports in the contiguous United States and Washington, DC. This visualization was constructed based on a dataset where each observation is an airport.<fn>Federal Aviation Administration, <url href="https://www.faa.gov/airports/airport_safety/airportdata_5010/" visual="www.faa.gov/airports/airport_safety/airportdata_5010/">www.faa.gov/airports/airport_safety/airportdata_5010</url></fn>
       </p>
       <sidebyside>
         <image width="90%" source="images/data_collection/airports.png" />
@@ -1269,7 +1269,7 @@
         and Mexico in the United Nations General Assembly on a variety of issues.
         Specifically, for a given year between 1946 and 2015,
         it displays the percentage of roll calls in which the country voted yes for each issue.
-        This visualization was constructed based on a dataset where each observation is a country/year pair.<fn>David Robinson. <em>unvotes: United Nations General Assembly Voting Data.</em> R package version 0.2.0. 2017. url: <url href="https://cran.r-project.org/web/packages/unvotes/index.html">https://CRAN.R-project.org/package=unvotes.</url></fn>
+        This visualization was constructed based on a dataset where each observation is a country/year pair.<fn>David Robinson. <em>unvotes: United Nations General Assembly Voting Data.</em> R package version 0.2.0. 2017. url: <url href="https://cran.r-project.org/web/packages/unvotes/index.html" visual="cran.r-project.org/web/packages/unvotes/index.html">https://CRAN.R-project.org/package=unvotes.</url></fn>
       </p>
       <sidebyside>
         <image width="90%" source="images/data_collection/unvotes.png" />

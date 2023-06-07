@@ -482,7 +482,7 @@
     </p>
     <figure xml:id="loan_app_type_home_seg_bar_plot_global">
       <caption>(a) segmented bar chart for <c>homeownership</c>, where the counts have been further broken down by <c>app_type</c>. (b) Side-by-side
-      bar chart for <c>homeownership</c> and <c>app_type</c>. (c) Standardized version of the segmented bar chart. (d) Standardized side-by-side bar chart. See these bar charts on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_31">Tableau Public</url>.</caption>
+      bar chart for <c>homeownership</c> and <c>app_type</c>. (c) Standardized version of the segmented bar chart. (d) Standardized side-by-side bar chart. See these bar charts on <url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_31" visual="public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/Fig2_31">Tableau Public</url>.</caption>
       <sbsgroup>
         <sidebyside>
           <figure xml:id="loan_app_type_home_seg_bar">
@@ -844,7 +844,7 @@
         The survey also collected information on the political party affiliation of the respondents.
         Based on the mosaic plot shown below,
         do views on raising taxes and political affiliation appear to be independent?
-        Explain your reasoning.<fn>Public Policy Polling, <url href="https://https://www.publicpolicypolling.com/">Americans on College Degrees, Classic Literature, the Seasons, and More</url>, data collected Feb 20-22, 2015.</fn>
+        Explain your reasoning.<fn>Public Policy Polling, <url href="https://https://www.publicpolicypolling.com/" visual="https://www.publicpolicypolling.com/">Americans on College Degrees, Classic Literature, the Seasons, and More</url>, data collected Feb 20-22, 2015.</fn>
       </p>
       <sidebyside>
         <image width="75%" source="images/summarizing/raise_taxes_mosaic.png" />

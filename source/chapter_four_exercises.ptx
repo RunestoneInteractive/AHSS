@@ -132,7 +132,7 @@
   <title>Married women</title><!--  #51 -->
     <statement>
       <p>
-        The American Community Survey estimates that 47.1% of women ages 15 years and over are married.<fn>U.S. Census Bureau, 2010 American Community Survey, <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1201&amp;prodType=table">Marital Status.</url></fn>
+        The American Community Survey estimates that 47.1% of women ages 15 years and over are married.<fn>U.S. Census Bureau, 2010 American Community Survey, <url href="https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1201&amp;prodType=table" visual="factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_S1201&amp;prodType=table">Marital Status.</url></fn>
         <ol>
           <li>
             <p>
@@ -185,7 +185,7 @@
   <title>Survey response rate</title><!--  #52 -->
     <statement>
       <p>
-        Pew Research reported that the typical response rate to their surveys is only 9%. If for a particular survey 15,000 households are contacted, what is the probability that at least 1,500 will agree to respond?<fn>Pew Research Center, <url href="https://www.people-press.org/2012/05/15/assessing-the-representativeness-of-public-opinion-surveys/">Assessing the Representativeness of Public Opinion Surveys</url>, May 15, 2012.</fn>
+        Pew Research reported that the typical response rate to their surveys is only 9%. If for a particular survey 15,000 households are contacted, what is the probability that at least 1,500 will agree to respond?<fn>Pew Research Center, <url href="https://www.people-press.org/2012/05/15/assessing-the-representativeness-of-public-opinion-surveys/" visual="www.people-press.org/2012/05/15/assessing-the-representativeness-of-public-opinion-surveys/">Assessing the Representativeness of Public Opinion Surveys</url>, May 15, 2012.</fn>
       </p>
     </statement>
   </exercise>
@@ -424,7 +424,7 @@
   <title>Young Hispanics in the US</title><!--  #61 -->
     <statement>
       <p>
-        The 2012 Current Population Survey (CPS) estimates that 38.9% of the people of Hispanic origin in the Unites States are under 21 years old.<fn>United States Census Bureau. <url href="https://www.census.gov/data/tables/2012/demo/hispanic-origin/2012-cps.html">2012 Current Population Survey.</url> The Hispanic Population in the United States: 2012. Web.</fn> Calculate the probability that at least 35 people among a random sample of 100 Hispanic people living in the United States are under 21 years old.
+        The 2012 Current Population Survey (CPS) estimates that 38.9% of the people of Hispanic origin in the Unites States are under 21 years old.<fn>United States Census Bureau. <url href="https://www.census.gov/data/tables/2012/demo/hispanic-origin/2012-cps.html" visual="www.census.gov/data/tables/2012/demo/hispanic-origin/2012-cps.html">2012 Current Population Survey.</url> The Hispanic Population in the United States: 2012. Web.</fn> Calculate the probability that at least 35 people among a random sample of 100 Hispanic people living in the United States are under 21 years old.
       </p>
     </statement>
     <solution>
@@ -438,7 +438,7 @@
   <title>Poverty in the US</title><!--  #62 -->
     <statement>
       <p>
-        The 2013 Current Population Survey (CPS) estimates that 22.5% of Mississippians live in poverty, which makes Mississippi the state with the highest poverty rate in the United States.<fn>United States Census Bureau. <url href="https://www.census.gov/topics/income-poverty/poverty/data/tables/cps.2013.html">2013 Current Population Survey.</url> Historical Poverty Tables - People. Web.</fn> We are interested in finding out the probability that at least 250 people among a random sample of 1,000 Mississippians live in poverty.
+        The 2013 Current Population Survey (CPS) estimates that 22.5% of Mississippians live in poverty, which makes Mississippi the state with the highest poverty rate in the United States.<fn>United States Census Bureau. <url href="https://www.census.gov/topics/income-poverty/poverty/data/tables/cps.2013.html" visual="www.census.gov/topics/income-poverty/poverty/data/tables/cps.2013.html">2013 Current Population Survey.</url> Historical Poverty Tables - People. Web.</fn> We are interested in finding out the probability that at least 250 people among a random sample of 1,000 Mississippians live in poverty.
         <ol>
           <li>
             <p>

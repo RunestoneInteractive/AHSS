@@ -101,7 +101,7 @@
     <title>Health coverage, frequencies</title><!--  #48 -->
     <statement>
       <p>
-        The Behavioral Risk Factor Surveillance System (BRFSS) is an annual telephone survey designed to identify risk factors in the adult population and report emerging health trends. The following table summarizes two variables for the respondents: health status and health coverage, which describes whether each respondent had health insurance.<fn>Offce of Surveillance, Epidemiology, and Laboratory Services Behavioral Risk Factor Surveillance System, <url href="https://www.cdc.gov/brfss/technical_infodata/surveydata/2010.htm">BRFSS 2010 Survey Data.</url></fn>
+        The Behavioral Risk Factor Surveillance System (BRFSS) is an annual telephone survey designed to identify risk factors in the adult population and report emerging health trends. The following table summarizes two variables for the respondents: health status and health coverage, which describes whether each respondent had health insurance.<fn>Offce of Surveillance, Epidemiology, and Laboratory Services Behavioral Risk Factor Surveillance System, <url href="https://www.cdc.gov/brfss/technical_infodata/surveydata/2010.htm" visual="www.cdc.gov/brfss/technical_infodata/surveydata/2010.htm">BRFSS 2010 Survey Data.</url></fn>
       </p>
       <sidebyside>
       <tabular>
@@ -173,7 +173,7 @@
     <title>HIV in Swaziland</title><!--  #49 -->
     <statement>
       <p>
-        Swaziland has the highest HIV prevalence in the world: 25.9% of this country's population is infected with HIV<fn>Source: CIA Factbook, <url href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html">Country Comparison: HIV/AIDS - Adult Prevalence Rate.</url></fn>. The ELISA test is one of the first and most accurate tests for HIV. For those who carry HIV, the ELISA test is 99.7% accurate. For those who do not carry HIV, the test is 92.6% accurate. If an individual from Swaziland has tested positive, what is the probability that he carries HIV?
+        Swaziland has the highest HIV prevalence in the world: 25.9% of this country's population is infected with HIV<fn>Source: CIA Factbook, <url href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html" visual="www.cia.gov/library/publications/the-world-factbook/rankorder/2155rank.html">Country Comparison: HIV/AIDS - Adult Prevalence Rate.</url></fn>. The ELISA test is one of the first and most accurate tests for HIV. For those who carry HIV, the ELISA test is 99.7% accurate. For those who do not carry HIV, the test is 92.6% accurate. If an individual from Swaziland has tested positive, what is the probability that he carries HIV?
       </p>
     </statement>
     <solution>

@@ -373,7 +373,7 @@
       <p>
         The scatterplot below shows the relationship between income and years worked for a random sample of 787 Americans.
         Also shown is a residuals plot for the linear model for predicting income from hours worked.
-        The data come from the 2012 American Community Survey.<fn>United States Census Bureau. Summary File. <url href="https://www.census.gov/programs-surveys/acs">2012 American Community Survey</url>. U.S. Census Bureau's American Community Survey Office, 2013. Web.</fn>
+        The data come from the 2012 American Community Survey.<fn>United States Census Bureau. Summary File. <url href="https://www.census.gov/programs-surveys/acs" visual="www.census.gov/programs-surveys/acs">2012 American Community Survey</url>. U.S. Census Bureau's American Community Survey Office, 2013. Web.</fn>
       </p>
         <sidebyside>
           <image width="50%" source="images/regression/acs_lin_scat.png" />

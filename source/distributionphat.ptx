@@ -461,7 +461,7 @@
     <title>Social network use</title><!--  #44 -->
     <statement>
       <p>
-        The Pew Research Center estimates that as of January 2014, 89% of 18-29 year olds in the United States use social networking sites.<fn>Pew Research Center, Washington, D.C. <url href="https://www.pewresearch.org/internet/fact-sheet/social-media/"> Social Networking Fact Sheet,</url> accessed on May 9, 2015.</fn> Calculate the probability that at least 95% of 500 randomly sampled 18-29 year olds use social networking sites.
+        The Pew Research Center estimates that as of January 2014, 89% of 18-29 year olds in the United States use social networking sites.<fn>Pew Research Center, Washington, D.C. <url href="https://www.pewresearch.org/internet/fact-sheet/social-media/" visual="www.pewresearch.org/internet/fact-sheet/social-media/"> Social Networking Fact Sheet,</url> accessed on May 9, 2015.</fn> Calculate the probability that at least 95% of 500 randomly sampled 18-29 year olds use social networking sites.
       </p>
     </statement>
   </exercise>

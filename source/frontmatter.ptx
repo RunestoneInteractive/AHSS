@@ -37,11 +37,11 @@
       which was not involved in the production of,
       and does not endorse,
       this product.
-      <url href="https://apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf?course=ap-statistics"></url>apcentral.collegeboard.org/pdf/ap-statistics-course-description.pdf</fn>,
+      <url href="https://apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf?course=ap-statistics" visual="apcentral.collegeboard.org/pdf/ap-statistics-course-and-exam-description.pdf?course=ap-statistics"></url>apcentral.collegeboard.org/pdf/ap-statistics-course-description.pdf</fn>,
       but it's also popular in non-AP courses and community colleges.
     </p>
     <p>
-      This book may be downloaded as a free PDF at <url href="https://www.openintro.org/book/ahss/"></url>.
+      This book may be downloaded as a free PDF at <url href="https://www.openintro.org/book/ahss/" visual="www.openintro.org/book/ahss/"></url>.
     </p>
     <p>
       We hope readers will take away three ideas from this book in addition to forming a foundation of statistical thinking and methods.
@@ -154,12 +154,12 @@
         </li>
         <li>
           <p>
-            <url href="https://www.youtube.com/playlist?list=PLkIselvEzpM7xx4WIYydlxRFRiA_kPDxf">Casio</url> and <url href="https://www.youtube.com/playlist?list=PLkIselvEzpM7N8zVRRUl7V8aTdoTsJ919">TI</url> calculator tutorials
+            <url href="https://www.youtube.com/playlist?list=PLkIselvEzpM7xx4WIYydlxRFRiA_kPDxf" visual="www.youtube.com/playlist?list=PLkIselvEzpM7xx4WIYydlxRFRiA_kPDxf">Casio</url> and <url href="https://www.youtube.com/playlist?list=PLkIselvEzpM7N8zVRRUl7V8aTdoTsJ919" visual="www.youtube.com/playlist?list=PLkIselvEzpM7N8zVRRUl7V8aTdoTsJ919">TI</url> calculator tutorials
           </p>
         </li>
         <li>
           <p>
-            <url href="https://www.youtube.com/watch?v=_tkXliDLL_o&amp;list=PLkIselvEzpM4AQEGTWF95pYy3ZqwTXkHc">Video solutions</url> for selected section and chapter exercises
+            <url href="https://www.youtube.com/watch?v=_tkXliDLL_o&amp;list=PLkIselvEzpM4AQEGTWF95pYy3ZqwTXkHc" visual="www.youtube.com/watch?v=_tkXliDLL_o&amp;list=PLkIselvEzpM4AQEGTWF95pYy3ZqwTXkHc">Video solutions</url> for selected section and chapter exercises
           </p>
         </li>
         <li>
@@ -169,44 +169,44 @@
         </li>
         <li>
           <p>
-            A small but growing number of <url href="https://www.openintro.org/book/ahss/">Desmos activities</url>
+            A small but growing number of <url href="https://www.openintro.org/book/ahss/" visual="www.openintro.org/book/ahss/">Desmos activities</url>
           </p>
         </li>
         <li>
           <p>
-            <url href="https://quizlet.com/openintro-ahss">Quizlet</url> sets for each chapter
+            <url href="https://quizlet.com/openintro-ahss" visual="quizlet.com/openintro-ahss">Quizlet</url> sets for each chapter
           </p>
         </li>
         <li>
           <p>
-            A <url href="https://public.tableau.com/profile/openintro#!/">Tableau public</url> page to further interact with data sets.
+            A <url href="https://public.tableau.com/profile/openintro#!/" visual="public.tableau.com/profile/openintro#!/">Tableau public</url> page to further interact with data sets.
           </p>
         </li>
         <li>
           <p>
-            <url href="https://www.openintro.org/book/ahss/">Online, interactive version of textbook</url>.
+            <url href="https://www.openintro.org/book/ahss/" visual="www.openintro.org/book/ahss/">Online, interactive version of textbook</url>.
             Developed by Emiliano Vega and Ralf Youtz of Portland Community College using PreTeXt.
           </p>
         </li>
         <li>
           <p>
-            Complete companion course with the learning management software <url href="https://www.myopenmath.com/course/public.php?cid=11774">MyOpenMath</url>
+            Complete companion course with the learning management software <url href="https://www.myopenmath.com/course/public.php?cid=11774" visual="www.myopenmath.com/course/public.php?cid=11774">MyOpenMath</url>
           </p>
         </li>
         <li>
           <p>
-            Complete Canvas course accessible through <url href="https://sfuhs.instructure.com/courses/1068/">Canvas Commons</url>
+            Complete Canvas course accessible through <url href="https://sfuhs.instructure.com/courses/1068/" visual="sfuhs.instructure.com/courses/1068/">Canvas Commons</url>
           </p>
         </li>
       </ul>
     </p>
   <p>
-    All of these resources can be found at: <url href="https://www.openintro.org/book/ahss/">openintro.org/book/ahss/</url>
+    All of these resources can be found at: <url href="https://www.openintro.org/book/ahss/" visual="www.openintro.org/book/ahss/">openintro.org/book/ahss/</url>
   </p>
   <p>
     We also have improved the ability to access data in this book through the addition of <xref ref="appendix_data_sets_in_text"></xref>,
     which provides additional information for each of the data sets used in the main text and is new in the Second Edition.
-    Online guides to each of these data sets are also provided at <url href="https://www.openintro.org/data/">openintro.org/data/</url> and through a <url href="https://github.com/OpenIntroStat/openintro-r-package">companion R package</url>.
+    Online guides to each of these data sets are also provided at <url href="https://www.openintro.org/data/" visual="www.openintro.org/data/">openintro.org/data/</url> and through a <url href="https://github.com/OpenIntroStat/openintro-r-package" visual="github.com/OpenIntroStat/openintro-r-package">companion R package</url>.
   </p>
 </paragraphs>
 </preface>
@@ -254,12 +254,12 @@
   <paragraphs>
   <title></title>
     <p>
-      We encourage anyone learning or teaching statistics to visit <url href="https://www.openintro.org/">openintro.org/</url> and get involved.
+      We encourage anyone learning or teaching statistics to visit <url href="https://www.openintro.org/" visual="www.openintro.org/">openintro.org/</url> and get involved.
       We value your feedback.
       Please send any questions or comments to <c>leah@openintro.org</c>.
       <!-- <url href="mailto:leah@openintro.org">leah@openintro.org</url>. -->
       You can also provide feedback, report typos,
-      and review known typos at <url href="https://www.openintro.org/form/?f=stat_feedback">openintro.org/ahss/feedback</url>
+      and review known typos at <url href="https://www.openintro.org/form/?f=stat_feedback" visual="www.openintro.org/form/?f=stat_feedback">openintro.org/ahss/feedback</url>
     </p>
   </paragraphs>
 </preface>
@@ -267,7 +267,7 @@
 <title>Acknowledgement</title>
   <p>
     This project would not be possible without the passion and dedication of all those involved.
-    The authors would like to thank the <url href="https://www.openintro.org/team/">OpenIntro Staff</url> for their involvement and ongoing contributions.
+    The authors would like to thank the <url href="https://www.openintro.org/team/" visual="www.openintro.org/team/">OpenIntro Staff</url> for their involvement and ongoing contributions.
     We are also very grateful to the hundreds of students and instructors who have provided us with valuable feedback since we first started working on this project in 2009.
     A special thank you to Catherine Ko for proofreading the second edition of AHSS.
   </p>

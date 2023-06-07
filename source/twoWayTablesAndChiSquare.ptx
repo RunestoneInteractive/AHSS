@@ -648,7 +648,7 @@
     <example>
       <statement>
         <p>
-          In an experiment<fn><url href="https://www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40">https://www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40</url></fn>,
+          In an experiment<fn><url href="https://www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40" visual="www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40">https://www.acrwebsite.org/volumes/1012889/volumes/v40/NA-40</url></fn>,
           each individual was asked to be a seller of an iPod (a product commonly used to store music on before smart phones).
           The participant received $10 + 5% of the sale price for participating.
           The iPod they were selling had frozen twice in the past inexplicitly but otherwise worked fine.
@@ -835,7 +835,7 @@
       <statement>
         <p>
           <xref ref="pewResearchPollOnApprovalRatingsForChiSquareSectionExampleAndExercises"></xref>
-          summarizes the results of a Pew Research poll<fn><url href="https://www.people-press.org/2012/03/14/romney-leads-gop-contest-trails-in-matchup-with-obama/">https://www.people-press.org/2012/03/14/romney-leads-gop-contest-trails-in-matchup-with-obama/</url></fn>.
+          summarizes the results of a Pew Research poll<fn><url href="https://www.people-press.org/2012/03/14/romney-leads-gop-contest-trails-in-matchup-with-obama/" visual="www.people-press.org/2012/03/14/romney-leads-gop-contest-trails-in-matchup-with-obama/">https://www.people-press.org/2012/03/14/romney-leads-gop-contest-trails-in-matchup-with-obama/</url></fn>.
           A random sample of adults in the U.S. was taken,
           and each was asked whether they approved or disapproved of the job being done by President Obama, Democrats in Congress,
           and Republicans in Congress.
@@ -1878,7 +1878,7 @@
         Complications of the disease can lead to extreme swelling and other complications.
         Here we consider results from a randomized experiment that compared three different drug treatment options to clear people of the this parasite,
         which people are working to eliminate entirely.
-        The results for the second year of the study are given below:<fn>Christopher King et al. <url href="https://www.nejm.org/doi/full/10.1056/NEJMoa1706854"><q>A Trial of a Triple-Drug Treatment for Lymphatic Filariasis</q></url>. In: <em>New England Journal of Medicine</em> 379 (2018), pp. 1801-1810.</fn>
+        The results for the second year of the study are given below:<fn>Christopher King et al. <url href="https://www.nejm.org/doi/full/10.1056/NEJMoa1706854" visual="www.nejm.org/doi/full/10.1056/NEJMoa1706854"><q>A Trial of a Triple-Drug Treatment for Lymphatic Filariasis</q></url>. In: <em>New England Journal of Medicine</em> 379 (2018), pp. 1801-1810.</fn>
       </p>
       <sidebyside>
       <tabular>

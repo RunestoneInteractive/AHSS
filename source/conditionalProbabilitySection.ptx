@@ -1581,7 +1581,7 @@
         (VIDEO) A Pew Research poll asked 1,306 Americans <q>From what you've read and heard,
         is there solid evidence that the average temperature on earth has been getting warmer over the past few decades,
         or not?</q>. The table below shows the distribution of responses by party and ideology,
-        where the counts have been replaced with relative frequencies.<fn>Pew Research Center, <url href="https://www.pewresearch.org/fact-tank/2010/11/02/majority-of-republicans-no-longer-see-evidence-of-global-warming/">Majority of Republicans No Longer See Evidence of Global Warming</url>, data collected on October 27, 2010.</fn>
+        where the counts have been replaced with relative frequencies.<fn>Pew Research Center, <url href="https://www.pewresearch.org/fact-tank/2010/11/02/majority-of-republicans-no-longer-see-evidence-of-global-warming/" visual="www.pewresearch.org/fact-tank/2010/11/02/majority-of-republicans-no-longer-see-evidence-of-global-warming/">Majority of Republicans No Longer See Evidence of Global Warming</url>, data collected on October 27, 2010.</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -1927,7 +1927,7 @@
         The table below summarizes the results.
         For simplicity,
         we only include heterosexual relationships in this exercise.
-        <fn>B. Laeng et al.<url href="https://link.springer.com/article/10.1007/s00265-006-0266-1"><q>Why do blue-eyed men prefer women with the same eye color?</q></url> In: Behavioral Ecology and Sociobiology 61.3 (2007), pp. 371-384.</fn>
+        <fn>B. Laeng et al.<url href="https://link.springer.com/article/10.1007/s00265-006-0266-1" visual="link.springer.com/article/10.1007/s00265-006-0266-1"><q>Why do blue-eyed men prefer women with the same eye color?</q></url> In: Behavioral Ecology and Sociobiology 61.3 (2007), pp. 371-384.</fn>
       </p>
       <sidebyside>
       <tabular>
@@ -2352,7 +2352,7 @@
         while 44% of those who voted against Scott Walker had a college degree.
         Suppose we randomly sampled a person who participated in the exit poll and found that he had a college degree.
         What is the probability that he voted in favor of Scott Walker?
-        <fn>New York Times,<url href="https://archive.nytimes.com/www.nytimes.com/interactive/2012/06/05/us/politics/wisconsin-recall-exit-polls.html">Wisconsin recall exit polls.</url></fn>
+        <fn>New York Times,<url href="https://archive.nytimes.com/www.nytimes.com/interactive/2012/06/05/us/politics/wisconsin-recall-exit-polls.html" visual="archive.nytimes.com/www.nytimes.com/interactive/2012/06/05/us/politics/wisconsin-recall-exit-polls.html">Wisconsin recall exit polls.</url></fn>
       </p>
     </statement>
   </exercise>
