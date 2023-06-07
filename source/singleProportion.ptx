@@ -1699,7 +1699,7 @@
         <q>should be</q>. At a 95% confidence level, this sample has 2% margin of error.
         Based on this information,
         determine if the following statements are true or false,
-        and explain your reasoning.<fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data">General Social Survey</url>, 2018.</fn>
+        and explain your reasoning.<fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data" visual="gss.norc.org/get-the-data">General Social Survey</url>, 2018.</fn>
         <ol>
           <li>
             <p>
@@ -1757,7 +1757,7 @@
       <p>
         The Marist Poll published a report stating that 66% of adults nationally think licensed drivers should be required to retake their road test once they reach 65 years of age.
         It was also reported that interviews were conducted on 1,018 American adults,
-        and that the margin of error was 3% using a 95% confidence level.<fn>Marist Poll, <url href="http://maristpoll.marist.edu/34-road-rules-re-testing-drivers-at-age-65/#sthash.sClZnB2I.dpbs">Road Rules: Re-Testing Drivers at Age 65?</url>, March 4, 2011.</fn>
+        and that the margin of error was 3% using a 95% confidence level.<fn>Marist Poll, <url href="http://maristpoll.marist.edu/34-road-rules-re-testing-drivers-at-age-65/#sthash.sClZnB2I.dpbs" visual="maristpoll.marist.edu/34-road-rules-re-testing-drivers-at-age-65/#sthash.sClZnB2I.dpbs">Road Rules: Re-Testing Drivers at Age 65?</url>, March 4, 2011.</fn>
         <ol>
           <li>
             <p>
@@ -1780,7 +1780,7 @@
       <p>
         { <em>A localFireworks on July
         <m>4^{\text{ th } }</m> </em>}news outlet reported that 56% of 600 randomly sampled Kansas residents planned to set off fireworks on July<nbsp/><m>4^{th}</m>.
-        Determine the margin of error for the 56% point estimate using a 95% confidence level.<fn>Survey USA, <url href="http://www.surveyusa.com/client/PollReport.aspx?g=9f76df27-701b-4223-bf0f-3a6027b80321">News Poll #19333</url>, data collected on June 27, 2012.</fn>
+        Determine the margin of error for the 56% point estimate using a 95% confidence level.<fn>Survey USA, <url href="http://www.surveyusa.com/client/PollReport.aspx?g=9f76df27-701b-4223-bf0f-3a6027b80321" visual="www.surveyusa.com/client/PollReport.aspx?g=9f76df27-701b-4223-bf0f-3a6027b80321">News Poll #19333</url>, data collected on June 27, 2012.</fn>
       </p>
     </statement>
     <solution>
@@ -1891,7 +1891,7 @@
         The General Social Survey asked 1,578 US residents:
         <q>Do you think the use of marijuana should be made legal,
         or not?</q>
-        61% of the respondents said it should be made legal.<fn></fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data">General Social Survey, 2018</url>.
+        61% of the respondents said it should be made legal.<fn></fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data" visual="gss.norc.org/get-the-data">General Social Survey, 2018</url>.
         <ol>
           <li>
             <p>

@@ -216,7 +216,7 @@
       Each line that starts with <c>#</c> is a
       <term>code comment</term>,
       which is used to describe in regular language what the code is doing.
-      We've provided software labs in <alert>R</alert> at <url href="openintro.org/stat/labs">openintro.org/stat/labs</url> for anyone interested in learning more.</caption>
+      We've provided software labs in <alert>R</alert> at <url href="openintro.org/stat/labs"/> for anyone interested in learning more.</caption>
       <sidebyside>
       <pre>
         # 1. Create a set of 250 million entries, where 885 of them are "support"

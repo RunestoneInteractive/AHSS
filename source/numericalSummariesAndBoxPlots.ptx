@@ -195,7 +195,7 @@
       However, we have provided an online supplement on weighted means for interested readers:
     </p>
     <p>
-      <url href="www.openintro.org/stat/down/supp/wtdmean.pdf">www.openintro.org/stat/down/supp/wtdmean.pdf</url>
+      <url href="https://www.openintro.org/stat/down/supp/wtdmean.pdf"/>
     </p>
     <p>
       The median provides another measure of center.
@@ -2774,8 +2774,14 @@
         Also shown below is a spatial intensity map of the same data.
       </p>
       <sidebyside>
-        <image width="40%" source="images/summarizing/county_commute_times_hist.png" href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms" />
-        <image width="40%" source="images/summarizing/county_commute_times_map.png" href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ" />
+        <stack>
+          <image width="40%" source="images/summarizing/county_commute_times_hist.png"/>
+          <p><url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms"/></p>
+        </stack>
+        <stack>
+          <image width="40%" source="images/summarizing/county_commute_times_map.png"/>
+          <p><url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ"/></p>
+        </stack>
       </sidebyside>
       <p>
         <ol>
@@ -2811,11 +2817,17 @@
         Also shown is a histogram of logs of these values.
       </p>
       <sidebyside>
-        <image width="40%" source="images/summarizing/county_hispanic_pop_hist.png" href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms" />
+        <stack>
+          <image width="40%" source="images/summarizing/county_hispanic_pop_hist.png"/>
+          <p><url href="https://public.tableau.com/profile/openintro#!/vizhome/Chapter2_23/MakeHistograms"/></p>
+        </stack>
         <image width="40%" source="images/summarizing/county_hispanic_pop_log_hist.png" />
       </sidebyside>
       <sidebyside>
-        <image width="40%" source="images/summarizing/county_hispanic_pop_map.png" href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ" />
+        <stack>
+          <image width="40%" source="images/summarizing/county_hispanic_pop_map.png"/>
+          <p><url href="https://public.tableau.com/profile/openintro#!/vizhome/shared/TG4RQRDNJ"/></p>
+        </stack>
       </sidebyside>
       <p>
         <ol>

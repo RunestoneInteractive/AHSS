@@ -1305,7 +1305,7 @@
         the team has to have scored more points (runs) than their opponent in any given game.
         As such, number of runs is often a good proxy for the success of the team.
         The table below shows number of runs, home runs,
-        and batting averages for a random sample of 10 teams in the 2014 Major League Baseball season.<fn><url href="http://www.espn.com/mlb/stats/team/_/stat/batting/year/2014">ESPN: MLB Team Stats - 2014.</url></fn>
+        and batting averages for a random sample of 10 teams in the 2014 Major League Baseball season.<fn><url href="http://www.espn.com/mlb/stats/team/_/stat/batting/year/2014" visual="www.espn.com/mlb/stats/team/_/stat/batting/year/2014">ESPN: MLB Team Stats - 2014.</url></fn>
       </p>
       <sidebyside>
       <tabular>
@@ -1438,7 +1438,7 @@
         We have selected a random sample of 20 cereals from the data provided in this report.
         Shown below are the fiber contents
         (percentage of fiber per gram of cereal)
-        for these cereals.<fn>JL Harris et al.<url href="http://www.cerealfacts.org/media/cereal_facts_report_2012_7.12.pdf"><q>Cereal FACTS 2012: Limited progress in the nutrition quality and marketing of children's cereals.</q></url>In: <em>Rudd Center for Food Policy &amp; Obesity.</em> 12 (2012).</fn>
+        for these cereals.<fn>JL Harris et al.<url href="http://www.cerealfacts.org/media/cereal_facts_report_2012_7.12.pdf" visual="www.cerealfacts.org/media/cereal_facts_report_2012_7.12.pdf"><q>Cereal FACTS 2012: Limited progress in the nutrition quality and marketing of children's cereals.</q></url>In: <em>Rudd Center for Food Policy &amp; Obesity.</em> 12 (2012).</fn>
       </p>
       <sidebyside>
         <tabular>
@@ -1828,7 +1828,7 @@
         and gestation lengths
         (in days)
         for 62 mammals.
-        A scatterplot of life span versus length of gestation is shown below.<fn>T. Allison and D.V. Cicchetti.<url href="http://www.faculty.biol.ttu.edu/strauss/Multivar/Lab/AllisonCicchetti1976.pdf"><q>Sleep in mammals: ecological and constitutional correlates</q>.</url>In: <em>Arch. Hydrobiol</em> 75 (1975), p. 442.</fn>
+        A scatterplot of life span versus length of gestation is shown below.<fn>T. Allison and D.V. Cicchetti.<url href="http://www.faculty.biol.ttu.edu/strauss/Multivar/Lab/AllisonCicchetti1976.pdf" visual="www.faculty.biol.ttu.edu/strauss/Multivar/Lab/AllisonCicchetti1976.pdf"><q>Sleep in mammals: ecological and constitutional correlates</q>.</url>In: <em>Arch. Hydrobiol</em> 75 (1975), p. 442.</fn>
       </p>
       <p>
         <ol>

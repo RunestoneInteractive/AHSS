@@ -9,7 +9,7 @@
   <title>Relaxing after work</title>
     <statement>
       <p>
-        The General Social Survey asked the question: <q>After an average work day, about how many hours do you have to relax or pursue activities that you enjoy?</q> to a random sample of 1,155 Americans.<fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data">General Social Survey, 2018.</url></fn> A 95% confidence interval for the mean number of hours spent relaxing or pursuing activities they enjoy was <m>(1.38, 1.92)</m>.
+        The General Social Survey asked the question: <q>After an average work day, about how many hours do you have to relax or pursue activities that you enjoy?</q> to a random sample of 1,155 Americans.<fn>National Opinion Research Center, <url href="http://gss.norc.org/get-the-data" visual="gss.norc.org/get-the-data">General Social Survey, 2018.</url></fn> A 95% confidence interval for the mean number of hours spent relaxing or pursuing activities they enjoy was <m>(1.38, 1.92)</m>.
         <ol>
           <li>
             <p>

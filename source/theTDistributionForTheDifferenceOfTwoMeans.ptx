@@ -1821,7 +1821,7 @@
         That is, for a 0.99 carat diamond,
         we divide the price by 99.
         For a 1 carat diamond, we divide the price by 100.
-        The distributions and some sample statistics are shown below.<fn>H. Wickham. <url href="http://had.co.nz/ggplot2/book">ggplot2: elegant graphics for data analysis.</url> Springer New York, 2009.</fn>
+        The distributions and some sample statistics are shown below.<fn>H. Wickham. <url href="http://had.co.nz/ggplot2/book" visual="had.co.nz/ggplot2/book">ggplot2: elegant graphics for data analysis.</url> Springer New York, 2009.</fn>
       </p>
       <p>
         Conduct a hypothesis test to evaluate if there is a difference between the

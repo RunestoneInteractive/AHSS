@@ -52,7 +52,7 @@
   <cell><m>Z</m></cell>
 </row>
 <row left="minor" halign="right">
-  <cell left="minor" >0.0002</cell>
+  <cell>0.0002</cell>
   <cell>0.0003</cell>
   <cell>0.0003</cell>
   <cell>0.0003</cell>
@@ -750,9 +750,9 @@
   <cell>0.9306</cell>
   <cell right="minor">0.9319</cell>
 </row>
-  <row right="minor" bottom="medium">
-    <cell colspan="11"></cell>
-  </row>
+<row bottom="medium">
+  <cell colspan="11"></cell>
+</row>
 <row>
   <cell right="minor">1.5</cell>
   <cell>0.9332</cell>

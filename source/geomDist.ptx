@@ -97,20 +97,17 @@
     </p>
     <p>
       If <m>p</m> is the true probability of a success,
-      then the mean of a Bernoulli random variable <m>X</m> is given by<fn><solution>
-      <p>
-        <md>
-          <mrow>\mu = E(X) \amp =  0\cdot P(X = 0) +  1\cdot P(X=1)</mrow>
-          <mrow>\amp =   0\cdot (1 - p) +  1\cdot p = 0 + p = p</mrow>
-        </md>
+      then the mean of a Bernoulli random variable <m>X</m> is given by
+      <md>
+        <mrow>\mu = E(X) \amp =  0\cdot P(X = 0) +  1\cdot P(X=1)</mrow>
+        <mrow>\amp =   0\cdot (1 - p) +  1\cdot p = 0 + p = p</mrow>
+      </md>
       Similarly, the variance of <m>X</m> can be computed:
-        <md>
-          <mrow>\sigma^2 \amp = {(0-p)^2\cdot P(X=0) + (1-p)^2\cdot P(X=1)}</mrow>
-          <mrow>\amp = {p^2\cdot (1-p) + (1-p)^2\cdot p} = {p(1-p)}</mrow>
-        </md>
-        The standard deviation is <m>\sigma=\sqrt{p(1-p)}</m>.
-      </p>
-    </solution></fn>
+      <md>
+        <mrow>\sigma^2 \amp = {(0-p)^2\cdot P(X=0) + (1-p)^2\cdot P(X=1)}</mrow>
+        <mrow>\amp = {p^2\cdot (1-p) + (1-p)^2\cdot p} = {p(1-p)}</mrow>
+      </md>
+      The standard deviation is <m>\sigma=\sqrt{p(1-p)}</m>.
     </p>
     <assemblage>
       <title>Bernoulli random variable</title>

@@ -6,7 +6,7 @@
           <idx><h>confidence interval</h></idx>
     </p>
     <p>
-      The site <url href="fivethirtyeight.com">fivethirtyeight.com</url> regularly forecasts support for each candidate in Congressional races,
+      The site <url href="fivethirtyeight.com"/> regularly forecasts support for each candidate in Congressional races,
       i.e. races in the US House of Representatives and the US Senate.
       In addition to point estimates,
       they report confidence intervals.<fn>
@@ -765,7 +765,7 @@
             <em>sampling error</em>;
             it does not account for additional error introduced by response bias and non-response bias.
             Even with a perfectly random sample,
-            the actual error in a poll is likely higher than the reported margin of error.<fn><url href="nytimes.com/2016/10/06/upshot/when-you-hear-the-margin-of-error-is-plus-or-minus-3-percent-think-7-instead.html">nytimes.com/2016/10/06/upshot/when-you-hear-the-margin-of-error-is-plus-or-minus-3-percent-think-7-instead.html</url>
+            the actual error in a poll is likely higher than the reported margin of error.<fn><url href="nytimes.com/2016/10/06/upshot/when-you-hear-the-margin-of-error-is-plus-or-minus-3-percent-think-7-instead.html"/>
             </fn>
           </p>
         </li>

@@ -1339,7 +1339,7 @@
         We randomly sampled 197 locations from the National Oceanic and Atmospheric Administration's (NOAA) historical data,
         where the data was available for both years of interest.
         We want to know:
-        were there more days with temperatures exceeding 90<quantity><unit base="degreeFahrenheit"/></quantity> in 2018 or 1948?<fn>NOAA, <url href="www.ncdc.noaa.gov/cdo-web/datasets">www.ncdc.noaa.gov/cdo-web/datasets</url>, April 24, 2019.</fn> The difference in number of days exceeding 90<quantity><unit base="degreeFahrenheit"/></quantity>
+        were there more days with temperatures exceeding 90<quantity><unit base="degreeFahrenheit"/></quantity> in 2018 or 1948?<fn>NOAA, <url href="www.ncdc.noaa.gov/cdo-web/datasets"/>, April 24, 2019.</fn> The difference in number of days exceeding 90<quantity><unit base="degreeFahrenheit"/></quantity>
         (number of days in 2018 - number of days in 1948)
         was calculated for each of the 197 locations.
         The average of these differences was 2.9 days with a standard deviation of 17.2 days.

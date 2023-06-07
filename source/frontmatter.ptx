@@ -218,7 +218,8 @@
     <p>
       Many examples are provided to establish an understanding of how to apply methods.
     </p>
-    <example>
+    <!-- TODO: We can't have an example in a preface -->
+    <!-- <example>
       <statement>
         <p>
           This is an example.
@@ -229,12 +230,12 @@
           Full solutions to examples are provided here, within the example.
         </p>
       </solution>
-    </example>
+    </example> -->
     <p>
       When we think the reader should be ready to do an example problem on their own,
       we frame it as Guided Practice.
     </p>
-    <!-- We can't have an exercise in a preface -->
+    <!-- TODO: We can't have an exercise in a preface -->
     <!-- <exercise>
       <statement>
         <p>

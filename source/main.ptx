@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
   <docinfo>
-    <brandlogo url="https://www.openintro.org/stat/textbook.php?stat_book=aps" source="images/AHSS_image.jpg" archive=".jpg" /><!-- add me gives cool image on HTML page put the image and and maybe it links to OPEN INTRO ahss -->
+    <brandlogo url="https://www.openintro.org/stat/textbook.php?stat_book=aps" source="images/AHSS_image.jpg"/><!-- add me gives cool image on HTML page put the image and and maybe it links to OPEN INTRO ahss -->
     <initialism>AHSS</initialism>
     <document-id>OpenIntro-AHSS</document-id> <!-- page title hovers same as webpage -->
   </docinfo>

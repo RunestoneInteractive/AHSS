@@ -1168,27 +1168,25 @@
           After an introductory statistics course, 78% of students can successfully construct tree diagrams.
           Of those who can construct tree diagrams, 97% passed,
           while only 57% of those students who could not construct tree diagrams passed. (a) Organize this information into a tree diagram. (b) What is the probability that a student who was able to construct tree diagrams did not pass? (c) What is the probability that a randomly selected student was able to successfully construct tree diagrams and passed? (d) What is the probability that a randomly selected student passed?
-          <fn>
-          	<solution>
-          		<p>
-          			(a) The tree diagram is shown to the right.
-          		</p>
-          		<p>
-          			(b) <m>P(\text{not pass } | \text{ able to construct tree diagram}) = 0.03</m>.
-          		</p>
-          		<p>
-          			(c) <m>P(\text{able to construct tree diagrams and passed}) = P(\text{able to construct tree diagrams}) \times P(\text{passed } | \text{ able to construct tree diagrams}) = 0.78 \times 0.97 = 0.7566</m>.
-          		</p>
-          		<p>
-          			(d) <m>P(\text{passed}) = 0.7566 + 0.1254 = 0.8820</m>.
-              </p>
-              <sidebyside>
-          			<image width="73%" source="images/probability/treeDiagramAndPass.png" />
-              </sidebyside>
-      			</solution>
-      		</fn>
         </p>
       </statement>
+      <solution>
+      	<p>
+      		(a) The tree diagram is shown to the right.
+      	</p>
+      	<p>
+      		(b) <m>P(\text{not pass } | \text{ able to construct tree diagram}) = 0.03</m>.
+      	</p>
+      	<p>
+      		(c) <m>P(\text{able to construct tree diagrams and passed}) = P(\text{able to construct tree diagrams}) \times P(\text{passed } | \text{ able to construct tree diagrams}) = 0.78 \times 0.97 = 0.7566</m>.
+      	</p>
+      	<p>
+      		(d) <m>P(\text{passed}) = 0.7566 + 0.1254 = 0.8820</m>.
+        </p>
+        <sidebyside>
+      		<image width="73%" source="images/probability/treeDiagramAndPass.png" />
+        </sidebyside>
+      </solution>
     </exercise>
   </subsection>
   <subsection xml:id="bayesTheoremSubsection">
@@ -1797,7 +1795,7 @@
         Tommy's Hamburgers?
         Umami Burger?
         Or somewhere else?</q>
-        The distribution of responses by gender is shown below.<fn>SurveyUSA, <url href="http://www.surveyusa.com/client/PollPrint.aspx?g=3f69bdaa-a964-4b39-b34a-cab2112e3e31&amp;d=0">Results of SurveyUSA News Poll #17718</url>, data collected on December 2, 2010.</fn>
+        The distribution of responses by gender is shown below.<fn>SurveyUSA, <url href="http://www.surveyusa.com/client/PollPrint.aspx?g=3f69bdaa-a964-4b39-b34a-cab2112e3e31&amp;d=0" visual="www.surveyusa.com/client/PollPrint.aspx?g=3f69bdaa-a964-4b39-b34a-cab2112e3e31&amp;d=0">Results of SurveyUSA News Poll #17718</url>, data collected on December 2, 2010.</fn>
       </p>
       <sidebyside>
       <tabular>

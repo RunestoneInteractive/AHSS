@@ -5,7 +5,7 @@
 <title>Data sets within the text</title>
 <introduction>
 	<p>
-		Each data set within the text is described in this appendix, and there is a corresponding page for each of these data sets at <url href="openintro.org/data">openintro.org/data</url>. This page also includes additional data sets that can be used for honing your skills. Each data set has its own page with the following information:
+		Each data set within the text is described in this appendix, and there is a corresponding page for each of these data sets at <url href="openintro.org/data"/>. This page also includes additional data sets that can be used for honing your skills. Each data set has its own page with the following information:
 		<ul>
 			<li>
 				<p>
@@ -103,13 +103,13 @@
 		In <xref ref="normalDist"></xref>: <url href="https://www.openintro.org/data/index.php?data=male_heights_fcid" visual="www.openintro.org/data/index.php?data=male_heights_fcid"><c>male_heights_fcid</c></url> <m>\rightarrow</m> This sample can be considered a simple random sample from the US population. It relies on the USDA Food Commodity Intake Database.
 	</p>
 	<p>
-		In <xref ref="normalDist"></xref>: <url href="https://www.openintro.org/data/index.php?data=nba_players_19" visual="www.openintro.org/data/index.php?data=nba_players_19"><c>nba_platers_19</c></url> <m>\rightarrow</m> Summary information from the NBA players for the 2018-2019 season. Data were retrieved from <url href="www.nba.com/players">www.nba.com/players</url>.
+		In <xref ref="normalDist"></xref>: <url href="https://www.openintro.org/data/index.php?data=nba_players_19" visual="www.openintro.org/data/index.php?data=nba_players_19"><c>nba_platers_19</c></url> <m>\rightarrow</m> Summary information from the NBA players for the 2018-2019 season. Data were retrieved from <url href="www.nba.com/players"/>.
 	</p>
 	<p>
 		In <xref ref="normalDist"></xref>: <url href="https://www.openintro.org/data/index.php?data=poker" visual="www.openintro.org/data/index.php?data=poker"><c>poker</c></url> <m>\rightarrow</m> Poker winnings (and losses) for 50 days by a professional poker player, which represents their first 50 days trying to play for a living. Anonymity has been requested by the player.
 	</p>
 	<p>
-		In <xref ref="distributionofxbar"></xref>: <url href="https://www.openintro.org/data/index.php?data=run17" visual="www.openintro.org/data/index.php?data=run17"><c>run17</c></url>, <url href="https://www.openintro.org/data/index.php?data=run17samp" visual="www.openintro.org/data/index.php?data=run17samp"><c>run17samp</c></url> <m>\rightarrow</m> <url href="www.cherryblossom.org">www.cherryblossom.org</url>
+		In <xref ref="distributionofxbar"></xref>: <url href="https://www.openintro.org/data/index.php?data=run17" visual="www.openintro.org/data/index.php?data=run17"><c>run17</c></url>, <url href="https://www.openintro.org/data/index.php?data=run17samp" visual="www.openintro.org/data/index.php?data=run17samp"><c>run17samp</c></url> <m>\rightarrow</m> <url href="www.cherryblossom.org"/>
 	</p>
 </subsection>
 
@@ -122,7 +122,7 @@
 		In <xref ref="ConfidenceIntervals"></xref>: <url href="https://www.openintro.org/data/index.php?data=pew_energy_2018" visual="www.openintro.org/data/index.php?data=pew_energy_2018"><c>pew_energy_2018</c></url> <m>\rightarrow</m> See the details for this data set above in <xref ref="pointEstimates"></xref>.
 	</p>
 	<p>
-		In <xref ref="ConfidenceIntervals"></xref>: <url href="https://www.openintro.org/data/index.php?data=ebola_survey" visual="www.openintro.org/data/index.php?data=ebola_survey"><c>ebola_survey</c></url> <m>\rightarrow</m> In New York City on October 23rd, 2014, a doctor who had recently been treating Ebola patients in Guinea went to the hospital with a slight fever and was subsequently diagnosed with Ebola. Soon thereafter, an NBC 4 New York/The Wall Street Journal/Marist Poll found that 82% of New Yorkers favored a <q>mandatory 21-day quarantine for anyone who has come in contact with an Ebola patient</q>. This poll included responses of 1,042 New York adults between Oct 26th and 28th, 2014. <url href="http://maristpoll.marist.edu/wp-content/misc/nyspolls/NY141026/Cuomo/Complete%20NBC%204%20NY_WSJ_Marist%20Poll%20New%20York%20State%20Release%20and%20Tables_October%202014.pdf">Poll ID NY141026 on maristpoll.marist.edu</url>.
+		In <xref ref="ConfidenceIntervals"></xref>: <url href="https://www.openintro.org/data/index.php?data=ebola_survey" visual="www.openintro.org/data/index.php?data=ebola_survey"><c>ebola_survey</c></url> <m>\rightarrow</m> In New York City on October 23rd, 2014, a doctor who had recently been treating Ebola patients in Guinea went to the hospital with a slight fever and was subsequently diagnosed with Ebola. Soon thereafter, an NBC 4 New York/The Wall Street Journal/Marist Poll found that 82% of New Yorkers favored a <q>mandatory 21-day quarantine for anyone who has come in contact with an Ebola patient</q>. This poll included responses of 1,042 New York adults between Oct 26th and 28th, 2014. <url href="http://maristpoll.marist.edu/wp-content/misc/nyspolls/NY141026/Cuomo/Complete%20NBC%204%20NY_WSJ_Marist%20Poll%20New%20York%20State%20Release%20and%20Tables_October%202014.pdf" visual="maristpoll.marist.edu/wp-content/misc/nyspolls/NY141026/Cuomo/Complete%20NBC%204%20NY_WSJ_Marist%20Poll%20New%20York%20State%20Release%20and%20Tables_October%202014.pdf">Poll ID NY141026 on maristpoll.marist.edu</url>.
 	</p>
 	<p>
 		In <xref ref="hypothesisTesting"></xref>: <url href="https://www.openintro.org/data/index.php?data=pew_energy_2018" visual="www.openintro.org/data/index.php?data=pew_energy_2018"><c>pew_energy_2018</c></url> <m>\rightarrow</m> See the details for this data set above in <xref ref="pointEstimates"></xref>.
@@ -139,7 +139,7 @@
 		<url href="https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx" visual="news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx">https://news.gallup.com/poll/237269/supreme-court-approval-highest-2009.aspx</url>
 	</p>
 	<p>
-		In <xref ref="singleProportion"></xref>: Life on other planets <m>\rightarrow</m> A February 2018 Marist Poll reported: <q>Many Americans (68%) think there is intelligent life on other planets</q>. The results were based on a random sample of 1,033 adults in the U.S. <url href="http://maristpoll.marist.edu/212-are-americans-poised-for-an-alien-invasion/#sthash.VrjaqJNS.Pyp2lgqf.dpbs">http://maristpoll.marist.edu/212-are-americans-poised-for-an-alien-invasion</url>
+		In <xref ref="singleProportion"></xref>: Life on other planets <m>\rightarrow</m> A February 2018 Marist Poll reported: <q>Many Americans (68%) think there is intelligent life on other planets</q>. The results were based on a random sample of 1,033 adults in the U.S. <url href="http://maristpoll.marist.edu/212-are-americans-poised-for-an-alien-invasion/#sthash.VrjaqJNS.Pyp2lgqf.dpbs" visual="maristpoll.marist.edu/212-are-americans-poised-for-an-alien-invasion/#sthash.VrjaqJNS.Pyp2lgqf.dpbs">http://maristpoll.marist.edu/212-are-americans-poised-for-an-alien-invasion</url>
 	</p>
 	<p>
 		In <xref ref="differenceOfTwoProportions"></xref>: <url href="https://www.openintro.org/data/index.php?data=cpr" visual="www.openintro.org/data/index.php?data=cpr"><c>cpr</c></url> <m>\rightarrow</m> Böttiger et al. <em>Efficacy and safety of thrombolytic therapy after initially unsuccessful cardiopulmonary resuscitation: a prospective clinical trial</em>. The Lancet, 2001.
@@ -176,7 +176,7 @@
 		In <xref ref="oneSampleMeansWithTDistribution"></xref>: Croaker white fish <m>\rightarrow</m> <url href="https://www.fda.gov/food/metals/mercury-levels-commercial-fish-and-shellfish-1990-2012" visual="www.fda.gov/food/metals/mercury-levels-commercial-fish-and-shellfish-1990-2012">www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm</url>
 	</p>
 	<p>
-		In <xref ref="oneSampleMeansWithTDistribution"></xref>: <url href="https://www.openintro.org/data/index.php?data=run17" visual="www.openintro.org/data/index.php?data=run17"><c>run17</c></url>, <url href="https://www.openintro.org/data/index.php?data=run17samp" visual="www.openintro.org/data/index.php?data=run17samp"><c>run17samp</c></url> <m>\rightarrow</m> <url href="http://www.cherryblossom.org/">www.cherryblossom.org/</url>
+		In <xref ref="oneSampleMeansWithTDistribution"></xref>: <url href="https://www.openintro.org/data/index.php?data=run17" visual="www.openintro.org/data/index.php?data=run17"><c>run17</c></url>, <url href="https://www.openintro.org/data/index.php?data=run17samp" visual="www.openintro.org/data/index.php?data=run17samp"><c>run17samp</c></url> <m>\rightarrow</m> <url href="http://www.cherryblossom.org/" visual="www.cherryblossom.org/">www.cherryblossom.org/</url>
 	</p>
 	<p>
 		In <xref ref="pairedData"></xref>: <url href="https://www.openintro.org/data/index.php?data=textbooks" visual="www.openintro.org/data/index.php?data=textbooks"><c>textbooks</c></url>, <url href="https://www.openintro.org/data/index.php?data=ucla_textbooks_f18" visual="www.openintro.org/data/index.php?data=ucla_textbooks_f18"><c>ucla_textbooks_f18</c></url> <m>\rightarrow</m> Data were collected by OpenIntro staff in 2010 and again in 2018. For the 2018 sample, we sampled 201 UCLA courses. Of those, 68 required books that could be found on Amazon. The websites where information was retrieved: <url href="https://sa.ucla.edu/ro/public/soc" visual="sa.ucla.edu/ro/public/soc">sa.ucla.edu/ro/public/soc</url>, <url href="https://ucla.verbacompare.com/" visual="ucla.verbacompare.com/">ucla.verbacompare.com</url> and <url href="https://www.amazon.com/" visual="www.amazon.com/">amazon.com</url>.

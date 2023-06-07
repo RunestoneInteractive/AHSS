@@ -597,18 +597,16 @@
           In the <c>email</c> data set with 3,921 emails, 367 were spam, 2,827 contained some small numbers but no big numbers,
           and 168 had both characteristics.
           Create a Venn diagram for this setup.
-          <fn>
-            <solution>
-              <p>
-                Both the counts and corresponding probabilities (e.g. <m>2659/3921 = 0.678</m>) are shown. Notice that the number of emails represented in the left circle corresponds to <m>2659 + 168 = 2827</m>, and the number represented in the right circle is <m>168 + 199 = 367</m>.
-              </p>
-              <sidebyside>
-                <image width="75%" source="images/probability/emailSpamNumberVenn.png" />
-              </sidebyside>
-            </solution>
-          </fn>
         </p>
       </statement>
+      <solution>
+        <p>
+          Both the counts and corresponding probabilities (e.g. <m>2659/3921 = 0.678</m>) are shown. Notice that the number of emails represented in the left circle corresponds to <m>2659 + 168 = 2827</m>, and the number represented in the right circle is <m>168 + 199 = 367</m>.
+        </p>
+        <sidebyside>
+          <image width="75%" source="images/probability/emailSpamNumberVenn.png" />
+        </sidebyside>
+      </solution>
     </exercise>
     <exercise>
       <statement>

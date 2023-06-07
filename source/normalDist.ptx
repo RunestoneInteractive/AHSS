@@ -588,16 +588,16 @@
           Use the results of <xref ref="edwardSatBelow1030"></xref>
           to compute the proportion of SAT takers who did better than Edward.
           Also draw a new picture.
-          <fn><solution>
-            <p>
-              If Edward did better than 36% of SAT takers, then about 64% must have done better than him.
-            </p>
-            <sidebyside>
-              <image width="73%" source="images/distributions/satAbove1030.png" />
-            </sidebyside>
-          </solution></fn>
         </p>
       </statement>
+      <solution>
+        <p>
+          If Edward did better than 36% of SAT takers, then about 64% must have done better than him.
+        </p>
+        <sidebyside>
+          <image width="73%" source="images/distributions/satAbove1030.png" />
+        </sidebyside>
+      </solution>
     </exercise>
     <assemblage>
       <title>Areas to the right</title>
@@ -932,7 +932,7 @@
       <statement>
         <p>
           In a large study of birth weight of newborns,
-          the weights of 23,419 newborn boys were recorded.<fn><url href="www.biomedcentral.com/1471-2393/8/5">www.biomedcentral.com/1471-2393/8/5</url></fn>
+          the weights of 23,419 newborn boys were recorded.<fn><url href="www.biomedcentral.com/1471-2393/8/5"/></fn>
           The distribution of weights was approximately normal with a mean of 7.44 lbs (3376 grams) and a standard deviation of 1.33 lbs (603 grams).
           The government classifies a newborn as having low birth weight if the weight is less than 5.5 pounds.
           What percent of these newborns had a low birth weight?
@@ -1100,7 +1100,7 @@
     <example>
       <statement>
         <p>
-          Consider all NBA players from the 2018-2019 season presented in <xref ref="nbaNormal"></xref>.<fn>These data were collected from <url href="www.nba.com">www.nba.com</url>.</fn>
+          Consider all NBA players from the 2018-2019 season presented in <xref ref="nbaNormal"></xref>.<fn>These data were collected from <url href="www.nba.com"/>.</fn>
           Based on the graphs, are NBA player heights normally distributed?
         </p>
       </statement>

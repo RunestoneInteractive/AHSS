@@ -51,7 +51,7 @@
     <title>The mean and standard deviation of <m>\bar{x}</m></title>
     <p>
       In this section we consider a data set called <c>run17</c>,
-      which represents all 19,961 runners who finished the 2017 Cherry Blossom 10 mile run in Washington, DC.<fn><url href="www.cherryblossom.org">www.cherryblossom.org</url></fn> Part of this data set is shown in <xref ref="run17DF"></xref>,
+      which represents all 19,961 runners who finished the 2017 Cherry Blossom 10 mile run in Washington, DC.<fn><url href="www.cherryblossom.org"/></fn> Part of this data set is shown in <xref ref="run17DF"></xref>,
       and the variables are described in <xref ref="run17Variables"></xref>.
     </p>
     <table xml:id="run17DF">
@@ -702,7 +702,7 @@
           <em>normal approximation</em>
           problems involving a <em>sample mean</em>
           or a <em>sample sum</em>.
-          <ol label ="A">
+          <ol marker="A">
             <li>
               <p>
                 <em>Find the probability that a sample average will be greater/less than a certain value</em>.

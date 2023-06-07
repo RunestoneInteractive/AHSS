@@ -313,7 +313,7 @@
   <title>Trees</title>
     <statement>
       <p>
-        The scatterplots below show the relationship between height, diameter, and volume of timber in 31 felled black cherry trees. The diameter of the tree is measured 4.5 feet above the ground.<fn>Source: R Dataset, <url href="stat.ethz.ch/R-manual/R-patched/library/datasets/html/trees.html"> stat.ethz.ch/R-manual/R-patched/library/datasets/html/trees.html</url>.</fn>
+        The scatterplots below show the relationship between height, diameter, and volume of timber in 31 felled black cherry trees. The diameter of the tree is measured 4.5 feet above the ground.<fn>Source: R Dataset, <url href="stat.ethz.ch/R-manual/R-patched/library/datasets/html/trees.html"/>.</fn>
       </p>
       <sidebyside>
         <image width="80%" source="images/regression/trees_volume_height.png"/>

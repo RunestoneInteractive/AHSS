@@ -684,7 +684,7 @@
       we believe it is reasonable that the population distribution of mercury content in dolphins could be nearly normal.
     </p>
     <figure xml:id="rissosDolphin">
-      <caption>A Risso's dolphin. Photo by Mike Baird (<url href="www.bairdphotos.com">www.bairdphotos.com</url>). <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
+      <caption>A Risso's dolphin. Photo by Mike Baird (<url href="www.bairdphotos.com"/>). <url href="https://creativecommons.org/licenses/by/2.0/" visual="creativecommons.org/licenses/by/2.0/">CC BY 2.0 license.</url></caption>
       <image width="70%" source="images/inference_means/rissosDolphin.jpg" />
     </figure>
     <table xml:id="summaryStatsOfHgInMuscleOfRissosDolphins">
@@ -2174,7 +2174,7 @@
         Researchers studying anthropometry collected body girth measurements and skeletal diameter measurements,
         as well as age, weight,
         height and gender, for 507 physically active individuals.
-        The histogram below shows the sample distribution of heights in centimeters.<fn>G. Heinz et al. <url href="http://jse.amstat.org/v11n2/datasets.heinz.html"><q>Exploring relationships in body dimensions</q>.</url> In: <em>Journal of Statistics Education</em> 11.2 (2003).</fn>
+        The histogram below shows the sample distribution of heights in centimeters.<fn>G. Heinz et al. <url href="http://jse.amstat.org/v11n2/datasets.heinz.html" visual="jse.amstat.org/v11n2/datasets.heinz.html"><q>Exploring relationships in body dimensions</q>.</url> In: <em>Journal of Statistics Education</em> 11.2 (2003).</fn>
       </p>
       <sidebyside>
         <image width="73%" source="images/inference_means/adult_heights_hist.png" />
