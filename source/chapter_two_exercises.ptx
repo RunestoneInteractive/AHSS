@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<section xml:id="chapter_two_exercises">
+<title>Chapter exercises</title>
+
+<p></p> <!-- This makes the file schema compliant. Why? -->
+
+<exercises>
+  <exercise><!--  #31 -->
+    <title>Make-up exam</title> 
+    <statement>
+   	<sidebyside>
+      <video width="60%" youtube="_tkXliDLL_o" />
+    </sidebyside>
+      <p>
+        In a class of 25 students, 24 of them took an exam in class and 1 student took a make-up exam the following day. The professor graded the first batch of 24 exams and found an average score of 74 points with a standard deviation of 8.9 points. The student who took the make-up the following day scored 64 points on the exam.</p>
+      <p>
+        <ol label="a)">
+          <li>
+              Does the new student's score increase or decrease the average score?
+          </li>
+          <li>
+              What is the new average?         
+          </li>
+          <li>
+              Does the new student's score increase or decrease the standard deviation of the scores?
+          </li>
+        </ol>
+      </p>
+    </statement>
+    <solution>
+      <p>
+        (a) Decrease: the new score is smaller than the mean of the 24 previous scores.
+      </p>
+      <p>
+        (b) Calculate a weighted mean. Use a weight of 24 for the old mean and 1 for the new mean: <m>(24\times 74 + 1\times64)/(24+1) = 73.6</m>.
+      </p>
+      <p>
+        (c) The new score is more than 1 standard deviation away from the previous mean, so increase.
+      </p>
+    </solution>
+  </exercise>
+
+  <exercise><!--  #32 -->
+    <title>Infant mortality</title>
+    <statement>
+      <p>
+        The infant mortality rate is defined as the number of infant deaths per 1,000 live births. This rate is often used as an indicator of the level of health in a country. The relative frequency histogram below shows the distribution of estimated infant death rates for 224 countries in 2014. <fn> CIA Factbook, <url href="https://www.cia.gov/library/publications/the-world-factbook/rankorder/rankorderguide.html"> Country Comparison, 2014.</url></fn>
+      </p>
+      <sidebyside>
+        <ol label="a)">
+          <li>
+            <p>
+              Estimate Q1, the median, and Q3 from the histogram.
+            </p>
+          </li>
+
+          <li>
+            <p>
+              Would you expect the mean of this data set to be smaller or larger than the median? Explain your reasoning.
+            </p>
+          </li>
+        </ol>
+      </sidebyside>
+      <sidebyside>
+        <image width="85%" source="images/summarizing/country_infMort.png" />
+      </sidebyside>
+    </statement>
+  </exercise>
+
+  <exercise><!--  #33 -->
+    <title>TV watchers</title>
+    <statement>
+      <p>
+        Students in an AP Statistics class were asked how many hours of television they watch per week (including online streaming). This sample yielded an average of 4.71 hours, with a standard deviation of 4.18 hours. Is the distribution of number of hours students watch television weekly symmetric? If not, what shape would you expect this distribution to have? Explain your reasoning.
+      </p>
+    </statement>
+    <solution>
+      <p>
+        No, we would expect this distribution to be right skewed. There are two reasons for this: (1) there is a natural boundary at 0 (it is not possible to watch less than 0 hours of TV), (2) the standard deviation of the distribution is very large compared to the mean.
+      </p>
+    </solution>
+  </exercise>
+  <exercise><!--  #34 -->
+    <title>A new statistic</title>
+    <statement>
+      <p>
+        The statistic <m>\frac{\bar{x}}{median}</m> can be used as a measure of skewness. Suppose we have a distribution where all observations are greater than 0, <m>x_i \gt 0</m>. What is the expected shape of the distribution under the following conditions? Explain your reasoning.
+        <ol label="a)">
+          <li>
+            <p>
+              <m>\frac{\bar{x}}{median} = 1</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\frac{\bar{x}}{median} \lt  1</m>
+            </p>
+          </li>
+          <li>
+            <p>
+              <m>\frac{\bar{x}}{median} \gt 1</m>
+            </p>
+          </li>
+        </ol>
+      </p>
+    </statement>
+  </exercise>
+  <exercise><!--  #35 -->
+    <title>Oscar winners</title>
+    <statement>
+      <p>
+        The first Oscar awards for best actor and best actress were given out in 1929. The histograms below show the age distribution for all of the best actor and best actress winners from 1929 to 2018. Summary statistics for these distributions are also provided. Compare the distributions of ages of best actor and actress winners<fn>Oscar winners from 1929-2018, data up to 2009 from the <url href="https://ww2.amstat.org/publications/jse/jse_data_archive.htm"> Journal of Statistics Education data archive</url> and for more current data from <url href="https://www.wikipedia.org/"> wikipedia.org/</url></fn>
+      </p>
+
+      <sidebyside>
+        <image width="70%" source="images/summarizing/oscars_winners_hist.png" />
+      </sidebyside>
+      <sidebyside>
+        <tabular>
+          <row bottom="minor">
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell></cell>
+            <cell>Best Actress</cell>
+          </row>
+          <row bottom="minor">
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell halign="center">Mean</cell>
+            <cell halign="center">36.2</cell>
+          </row>
+          <row>
+            <cell halign="center">SD</cell>
+            <cell halign="center">11.9</cell>
+          </row>
+          <row>
+            <cell halign="center">n</cell>
+            <cell halign="center">92</cell>
+          </row>
+        </tabular>
+        <tabular>
+          <row bottom="minor">
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell></cell>
+            <cell>Best Actor</cell>
+          </row>
+          <row bottom="minor">
+            <cell></cell>
+            <cell></cell>
+          </row>
+          <row>
+            <cell halign="center">Mean</cell>
+            <cell halign="center">43.8</cell>
+          </row>
+          <row>
+            <cell halign="center">SD</cell>
+            <cell halign="center">8.83</cell>
+          </row>
+          <row>
+            <cell halign="center">n</cell>
+            <cell halign="center">92</cell>
+          </row>
+        </tabular>
+      </sidebyside>
+    </statement>
+    <solution>
+      <p>
+        The distribution of ages of best actress winners are right skewed with a median around 30 years. The distribution of ages of best actress winners is also right skewed, though less so, with a median around 40 years. The difference between the peaks of these distributions suggest that best actress winners are typically younger than best actor winners. The ages of best actress winners are more variable than the ages of best actor winners. There are potential outliers on the higher end of both of the distributions.
+      </p>
+    </solution>
+  </exercise>
+
+  <exercise><!--  #36 -->
+    <title>Exam scores</title>
+    <statement>
+      <p>
+        The average on a history exam (scored out of 100 points) was 85, with a standard deviation of 15. Is the distribution of the scores on this exam symmetric? If not, what shape would you expect this distribution to have? Explain your reasoning.
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise><!--  #37 -->
+    <title>Stats scores</title>
+    <statement>
+      <p>
+        Below are the final exam scores of twenty introductory statistics students.
+      </p>
+      <p>
+        57, 66, 69, 71, 72, 73, 74, 77, 78, 78, 79, 79, 81, 81, 82, 83, 83, 88, 89, 94
+      </p>
+      <p>
+        Create a box plot of the distribution of these scores.
+        The five number summary provided below may be useful.
+      </p>
+      <sidebyside>
+    <tabular>
+      <row bottom="minor" halign="center">
+        <cell>Min</cell>
+        <cell>Q1</cell>
+        <cell>Q2 (Median)</cell>
+        <cell>Q3</cell>
+        <cell>Max</cell>
+      </row>
+      <row halign="center">
+        <cell>57</cell>
+        <cell>72.5</cell>
+        <cell>78.5</cell>
+        <cell>82.5</cell>
+        <cell>94</cell>
+      </row>
+    </tabular>
+    </sidebyside>
+    </statement>
+    
+    <solution>
+    	<sidebyside>
+      <image width="80%" source="images/summarizing/stats_scores_boxplot.png" />
+  	</sidebyside>
+    </solution>
+  </exercise>
+
+  <exercise xml:id="NYMarathon"><!--  #38 -->
+    <title>Marathon winners</title>
+    <statement>
+      <p>
+        The histogram and box plots below show the distribution of finishing times for male and female winners of the New York Marathon between 1970 and 1999.
+      </p>
+    <sidebyside>
+      <image width="75%" source="images/summarizing/marathon_winners_hist_box.png" />
+    </sidebyside>
+    <p>
+      <ol label="a)">
+        <li>
+          <p>
+            What features of the distribution are apparent in the histogram and not the box plot? What features are apparent in the box plot but not in the histogram?
+          </p>
+        </li>
+        <li>
+          <p>
+            What may be the reason for the bimodal distribution? Explain.
+          </p>
+        </li>
+        <li>
+          <p>
+            Compare the distribution of marathon times for men and women based on the box plot shown below.
+        	</p>
+          <sidebyside>
+            <image width="53%" source="images/summarizing/marathon_winners_gender_box.png" />
+          </sidebyside>
+        </li>
+        <li>
+          <p>
+            The time series plot shown below is another way to look at these data. Describe what is visible in this plot but not in the others.
+          </p>
+        </li>
+      </ol>
+    </p>
+     <sidebyside>
+      <image width="73%" source="images/summarizing/marathon_winners_time_series.png" />
+    </sidebyside>
+    </statement>
+  </exercise>
+</exercises>
+</section>
